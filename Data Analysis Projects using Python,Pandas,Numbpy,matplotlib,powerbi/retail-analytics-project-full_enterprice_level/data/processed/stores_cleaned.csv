@@ -1,0 +1,121 @@
+store_id,store_name,city,state,store_type
+2001,Store_2001,Kolkata,West Bengal,Warehouse
+2002,Store_2002,Coimbatore,Tamil Nadu,Mall
+2003,Store_2003,Patna,Bihar,Warehouse
+2004,Store_2004,Chennai,Tamil Nadu,High Street
+2005,Store_2005,Bengaluru,Karnataka,Mall
+2006,Store_2006,Chennai,Tamil Nadu,High Street
+2007,Store_2007,Noida,Uttar Pradesh,Franchise
+2008,Store_2008,Pune,Maharashtra,Franchise
+2009,Store_2009,Delhi,Delhi,Mall
+2010,Store_2010,Indore,Madhya Pradesh,High Street
+2011,Store_2011,Pune,Maharashtra,High Street
+2012,Store_2012,Bengaluru,Karnataka,Warehouse
+2013,Store_2013,Gurugram,Haryana,Mall
+2014,Store_2014,Bhopal,Madhya Pradesh,High Street
+2015,Store_2015,Kochi,Kerala,Warehouse
+2016,Store_2016,Noida,Uttar Pradesh,Warehouse
+2017,Store_2017,Patna,Bihar,Mall
+2018,Store_2018,Nagpur,Maharashtra,High Street
+2019,Store_2019,Mumbai,Maharashtra,High Street
+2020,Store_2020,Gurugram,Haryana,Franchise
+2021,Store_2021,Indore,Madhya Pradesh,Mall
+2022,Store_2022,Coimbatore,Tamil Nadu,Mall
+2023,Store_2023,Gurugram,Haryana,Warehouse
+2024,Store_2024,Noida,Uttar Pradesh,High Street
+2025,Store_2025,Patna,Bihar,Mall
+2026,Store_2026,Bhopal,Madhya Pradesh,High Street
+2027,Store_2027,Coimbatore,Tamil Nadu,Franchise
+2028,Store_2028,Indore,Madhya Pradesh,High Street
+2029,Store_2029,Pune,Maharashtra,Franchise
+2030,Store_2030,Bengaluru,Karnataka,Warehouse
+2031,Store_2031,Noida,Uttar Pradesh,High Street
+2032,Store_2032,Jaipur,Rajasthan,High Street
+2033,Store_2033,Chandigarh,Punjab,Warehouse
+2034,Store_2034,Nagpur,Maharashtra,High Street
+2035,Store_2035,Bengaluru,Karnataka,Mall
+2036,Store_2036,Surat,Gujarat,High Street
+2037,Store_2037,Kochi,Kerala,High Street
+2038,Store_2038,Jaipur,Rajasthan,Warehouse
+2039,Store_2039,Coimbatore,Tamil Nadu,High Street
+2040,Store_2040,Coimbatore,Tamil Nadu,High Street
+2041,Store_2041,Kolkata,West Bengal,Mall
+2042,Store_2042,Mumbai,Maharashtra,Franchise
+2043,Store_2043,Noida,Uttar Pradesh,Mall
+2044,Store_2044,Delhi,Delhi,Mall
+2045,Store_2045,Bhopal,Madhya Pradesh,High Street
+2046,Store_2046,Chandigarh,Punjab,Mall
+2047,Store_2047,Bhopal,Madhya Pradesh,Franchise
+2048,Store_2048,Chennai,Tamil Nadu,Franchise
+2049,Store_2049,Patna,Bihar,Mall
+2050,Store_2050,Gurugram,Haryana,Mall
+2051,Store_2051,Indore,Madhya Pradesh,High Street
+2052,Store_2052,Kochi,Kerala,Mall
+2053,Store_2053,Delhi,Delhi,Mall
+2054,Store_2054,Chandigarh,Punjab,Franchise
+2055,Store_2055,Lucknow,Uttar Pradesh,Mall
+2056,Store_2056,Kochi,Kerala,High Street
+2057,Store_2057,Delhi,Delhi,Mall
+2058,Store_2058,Gurugram,Haryana,High Street
+2059,Store_2059,Hyderabad,Telangana,High Street
+2060,Store_2060,Nagpur,Maharashtra,Mall
+2061,Store_2061,Gurugram,Haryana,Franchise
+2062,Store_2062,Hyderabad,Telangana,High Street
+2063,Store_2063,Chennai,Tamil Nadu,High Street
+2064,Store_2064,Kochi,Kerala,Mall
+2065,Store_2065,Ahmedabad,Gujarat,Warehouse
+2066,Store_2066,Kochi,Kerala,High Street
+2067,Store_2067,Ahmedabad,Gujarat,Franchise
+2068,Store_2068,Chandigarh,Punjab,High Street
+2069,Store_2069,Gurugram,Haryana,Mall
+2070,Store_2070,Patna,Bihar,Franchise
+2071,Store_2071,Surat,Gujarat,High Street
+2072,Store_2072,Surat,Gujarat,Warehouse
+2073,Store_2073,Delhi,Delhi,High Street
+2074,Store_2074,Jaipur,Rajasthan,Mall
+2075,Store_2075,Kochi,Kerala,High Street
+2076,Store_2076,Bengaluru,Karnataka,Mall
+2077,Store_2077,Bhopal,Madhya Pradesh,Mall
+2078,Store_2078,Kolkata,West Bengal,High Street
+2079,Store_2079,Surat,Gujarat,Franchise
+2080,Store_2080,Surat,Gujarat,High Street
+2081,Store_2081,Patna,Bihar,Franchise
+2082,Store_2082,Lucknow,Uttar Pradesh,High Street
+2083,Store_2083,Mumbai,Maharashtra,Mall
+2084,Store_2084,Bengaluru,Karnataka,High Street
+2085,Store_2085,Noida,Uttar Pradesh,Mall
+2086,Store_2086,Kolkata,West Bengal,High Street
+2087,Store_2087,Pune,Maharashtra,High Street
+2088,Store_2088,Jaipur,Rajasthan,Mall
+2089,Store_2089,Delhi,Delhi,High Street
+2090,Store_2090,Hyderabad,Telangana,Mall
+2091,Store_2091,Kolkata,West Bengal,High Street
+2092,Store_2092,Ahmedabad,Gujarat,Warehouse
+2093,Store_2093,Nagpur,Maharashtra,High Street
+2094,Store_2094,Lucknow,Uttar Pradesh,High Street
+2095,Store_2095,Kolkata,West Bengal,Warehouse
+2096,Store_2096,Kolkata,West Bengal,Warehouse
+2097,Store_2097,Mumbai,Maharashtra,High Street
+2098,Store_2098,Pune,Maharashtra,High Street
+2099,Store_2099,Bengaluru,Karnataka,Warehouse
+2100,Store_2100,Pune,Maharashtra,Warehouse
+2101,Store_2101,Ahmedabad,Gujarat,Mall
+2102,Store_2102,Ahmedabad,Gujarat,Mall
+2103,Store_2103,Chennai,Tamil Nadu,Mall
+2104,Store_2104,Gurugram,Haryana,High Street
+2105,Store_2105,Lucknow,Uttar Pradesh,High Street
+2106,Store_2106,Jaipur,Rajasthan,High Street
+2107,Store_2107,Gurugram,Haryana,Mall
+2108,Store_2108,Delhi,Delhi,Mall
+2109,Store_2109,Gurugram,Haryana,High Street
+2110,Store_2110,Nagpur,Maharashtra,High Street
+2111,Store_2111,Nagpur,Maharashtra,Mall
+2112,Store_2112,Kochi,Kerala,Mall
+2113,Store_2113,Jaipur,Rajasthan,High Street
+2114,Store_2114,Mumbai,Maharashtra,Franchise
+2115,Store_2115,Chandigarh,Punjab,High Street
+2116,Store_2116,Surat,Gujarat,High Street
+2117,Store_2117,Coimbatore,Tamil Nadu,Warehouse
+2118,Store_2118,Bengaluru,Karnataka,Mall
+2119,Store_2119,Indore,Madhya Pradesh,High Street
+2120,Store_2120,Bengaluru,Karnataka,High Street
