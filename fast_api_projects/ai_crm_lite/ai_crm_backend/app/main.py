@@ -1,7 +1,8 @@
 from fastapi import FastAPI, Depends
 from sqlalchemy.orm import Session
 from sqlalchemy import text
-
+from app.database import Base, engine
+from app.models import user_model
 from app.database import get_db
 
 app = FastAPI(
@@ -9,6 +10,8 @@ app = FastAPI(
     description="FastAPI + PostgreSQL + AI CRM Backend",
     version="1.0.0"
 )
+
+Base.metadata.create_all(bind=engine)
 
 
 @app.get("/")
