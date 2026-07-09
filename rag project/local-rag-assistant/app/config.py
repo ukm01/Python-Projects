@@ -10,6 +10,7 @@ class Settings(BaseSettings):
     CHUNK_OVERLAP: int = 150
     OLLAMA_BASE_URL: str = "http://localhost:11434"
     OLLAMA_MODEL: str = "llama3.2:3b"
+    MAX_RETRIEVAL_DISTANCE: float = 1.2
 
     class Config:
         env_file = ".env"

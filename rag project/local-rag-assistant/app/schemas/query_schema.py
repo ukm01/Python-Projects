@@ -34,3 +34,5 @@ class AskResponse(BaseModel):
     answer: str
     sources: list[Source]
     retrieved_chunks_count: int
+    used_chunks_count: int
+    retrieval_confident: bool
