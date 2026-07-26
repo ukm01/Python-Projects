@@ -1,0 +1,6 @@
+# Frontend dependencies
+/frontend/node_modules/
+
+# Backend virtual environments
+/salesdesk/venv/
+/salesdesk/.venv/
