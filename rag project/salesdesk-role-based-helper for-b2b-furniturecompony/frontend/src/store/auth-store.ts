@@ -2,12 +2,12 @@ import { create } from "zustand";
 import { createJSONStorage, persist } from "zustand/middleware";
 
 export type AuthUser = {
-  id?: number;
-  name?: string;
+  id: number;
+  name: string;
   email: string;
-  role?: string;
-  department?: string | null;
-  is_active?: boolean;
+  role: string;
+  department: string | null;
+  is_active: boolean;
 };
 
 type AuthState = {

@@ -18,6 +18,7 @@ def prepare_documents(
                 "category": document_record.category,
                 "product_name": document_record.product_name,
                 "original_filename": document_record.original_filename,
+                "allowed_roles": document_record.allowed_roles,
             }
         )
 

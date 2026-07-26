@@ -12,7 +12,16 @@ class LoginRequest(BaseModel):
     _validate_password = field_validator("password")(validate_bcrypt_password)
 
 
+class SessionUserResponse(BaseModel):
+    id: int
+    name: str
+    email: EmailStr
+    role: str
+    department: str | None
+    is_active: bool
+
+
 class LoginResponse(BaseModel):
     access_token: str
     token_type: str
-    user: dict
+    user: SessionUserResponse

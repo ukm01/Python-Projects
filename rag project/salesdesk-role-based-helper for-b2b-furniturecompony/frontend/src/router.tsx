@@ -7,6 +7,7 @@ import {
 } from "@tanstack/react-router";
 
 import { HomePage } from "@/routes/home";
+import { ForgotPasswordPage } from "@/routes/forgot-password";
 import { LoginPage } from "@/routes/login";
 import { useAuthStore } from "@/store/auth-store";
 
@@ -25,6 +26,17 @@ const indexRoute = createRoute({
   component: LoginPage,
 });
 
+const forgotPasswordRoute = createRoute({
+  getParentRoute: () => rootRoute,
+  path: "/forgot-password",
+  beforeLoad: () => {
+    if (useAuthStore.getState().isAuthenticated) {
+      throw redirect({ to: "/home" });
+    }
+  },
+  component: ForgotPasswordPage,
+});
+
 const homeRoute = createRoute({
   getParentRoute: () => rootRoute,
   path: "/home",
@@ -36,7 +48,7 @@ const homeRoute = createRoute({
   component: HomePage,
 });
 
-const routeTree = rootRoute.addChildren([indexRoute, homeRoute]);
+const routeTree = rootRoute.addChildren([indexRoute, forgotPasswordRoute, homeRoute]);
 
 export const router = createRouter({ routeTree });
 

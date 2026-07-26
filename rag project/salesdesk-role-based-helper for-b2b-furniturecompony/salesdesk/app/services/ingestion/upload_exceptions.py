@@ -24,3 +24,11 @@ class EmptyFileError(FileUploadError):
 
 class DuplicateDocumentError(FileUploadError):
     pass
+
+
+class DocumentBusyError(FileUploadError):
+    pass
+
+
+class InvalidDocumentRolesError(FileUploadError):
+    pass

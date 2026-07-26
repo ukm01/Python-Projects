@@ -5,20 +5,28 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models.user_model import User
 from app.schemas.auth_schema import LoginRequest, LoginResponse
-from app.schemas.user_schema import AdminCreateRequest, UserResponse
+from app.schemas.password_reset_schema import (
+    MessageResponse,
+    PasswordResetConfirmRequest,
+    PasswordResetRequest,
+    PasswordResetVerifyRequest,
+    PasswordResetVerifyResponse,
+)
+from app.schemas.user_schema import UserResponse
 from app.security.dependencies import get_current_user
 from app.security.roles import ACCESS_ROLES
-from app.services.auth_service import create_admin_user, login_user
+from app.services.auth_service import login_user
+from app.services.password_reset_service import (
+    confirm_password_reset,
+    request_password_reset,
+    verify_password_reset_otp,
+)
 
 
 router = APIRouter(
     prefix="/auth",
     tags=["Auth"]
 )
-
-
-
-
 
 
 @router.post("/login", response_model=LoginResponse)
@@ -30,6 +38,50 @@ def login(
         db=db,
         email=request.email,
         password=request.password
+    )
+
+
+@router.post(
+    "/password-reset/request",
+    response_model=MessageResponse,
+)
+def request_reset(
+    request: PasswordResetRequest,
+    db: Session = Depends(get_db),
+):
+    return request_password_reset(
+        db=db,
+        email=str(request.email),
+    )
+
+
+@router.post(
+    "/password-reset/verify",
+    response_model=PasswordResetVerifyResponse,
+)
+def verify_reset_code(
+    request: PasswordResetVerifyRequest,
+    db: Session = Depends(get_db),
+):
+    return verify_password_reset_otp(
+        db=db,
+        email=str(request.email),
+        otp=request.otp,
+    )
+
+
+@router.post(
+    "/password-reset/confirm",
+    response_model=MessageResponse,
+)
+def confirm_reset(
+    request: PasswordResetConfirmRequest,
+    db: Session = Depends(get_db),
+):
+    return confirm_password_reset(
+        db=db,
+        reset_token=request.reset_token,
+        password=request.password,
     )
 
 

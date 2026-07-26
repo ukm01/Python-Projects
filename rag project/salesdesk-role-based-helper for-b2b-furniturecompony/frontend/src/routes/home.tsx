@@ -1,32 +1,34 @@
-import { type FormEvent, useEffect, useMemo, useState } from "react";
+import { type FormEvent, useMemo, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
 import {
   Bot,
   CheckCircle2,
   ChevronDown,
   FileUp,
+  Files,
   Loader2,
   LogOut,
-  MessageSquareText,
   Settings,
   UserCircle,
+  Users,
 } from "lucide-react";
 
+import { UserManagementPanel } from "@/components/users/user-management";
+import { DocumentListPanel } from "@/components/documents/document-list";
+import { ChatBotSection } from "@/components/chat/chat-bot";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import {
-  getAccessRolesRequest,
-  uploadDocumentRequest,
-  type DocumentUploadResponse,
-} from "@/lib/api";
+  useDocumentOptions,
+  useDocumentUpload,
+} from "@/hooks/api";
+import type { DocumentUploadResponse } from "@/api/types";
 import { cn } from "@/lib/utils";
 import { useAuthStore } from "@/store/auth-store";
 
 type ActiveSection = "system-config" | "chat-bot";
-type SystemConfigView = "upload-document";
-
-const fallbackAccessRoles = ["admin", "sales", "manager"];
+type SystemConfigView = "upload-document" | "documents" | "user-management";
 
 const systemConfigItems: Array<{
   id: SystemConfigView;
@@ -38,13 +40,26 @@ const systemConfigItems: Array<{
     label: "Upload Document",
     icon: FileUp,
   },
+  {
+    id: "documents",
+    label: "Documents",
+    icon: Files,
+  },
+  {
+    id: "user-management",
+    label: "User Management",
+    icon: Users,
+  },
 ];
 
 export function HomePage() {
   const navigate = useNavigate();
   const user = useAuthStore((state) => state.user);
+  const isAdmin = user?.role === "admin";
   const logout = useAuthStore((state) => state.logout);
-  const [activeSection, setActiveSection] = useState<ActiveSection>("system-config");
+  const [activeSection, setActiveSection] = useState<ActiveSection>(() =>
+    isAdmin ? "system-config" : "chat-bot",
+  );
   const [activeConfigView, setActiveConfigView] =
     useState<SystemConfigView>("upload-document");
 
@@ -68,12 +83,14 @@ export function HomePage() {
           </div>
 
           <div className="flex w-full items-center gap-2 sm:w-auto">
-            <SectionButton
-              active={activeSection === "system-config"}
-              icon={Settings}
-              label="System Config"
-              onClick={() => setActiveSection("system-config")}
-            />
+            {isAdmin ? (
+              <SectionButton
+                active={activeSection === "system-config"}
+                icon={Settings}
+                label="System Config"
+                onClick={() => setActiveSection("system-config")}
+              />
+            ) : null}
             <SectionButton
               active={activeSection === "chat-bot"}
               icon={Bot}
@@ -97,7 +114,7 @@ export function HomePage() {
         </div>
       </nav>
 
-      {activeSection === "system-config" ? (
+      {activeSection === "system-config" && isAdmin ? (
         <SystemConfigSection
           activeView={activeConfigView}
           onViewChange={setActiveConfigView}
@@ -174,46 +191,36 @@ function SystemConfigSection({
         </div>
       </aside>
 
-      <section>{activeView === "upload-document" ? <UploadDocumentPanel /> : null}</section>
+      <section>
+        {activeView === "upload-document" ? (
+          <UploadDocumentPanel
+            onUploadComplete={() => onViewChange("documents")}
+          />
+        ) : null}
+        {activeView === "documents" ? <DocumentListPanel /> : null}
+        {activeView === "user-management" ? <UserManagementPanel /> : null}
+      </section>
     </div>
   );
 }
 
-function UploadDocumentPanel() {
+function UploadDocumentPanel({
+  onUploadComplete,
+}: {
+  onUploadComplete: () => void;
+}) {
   const [documentName, setDocumentName] = useState("");
   const [category, setCategory] = useState("");
   const [productName, setProductName] = useState("");
   const [allowedRoles, setAllowedRoles] = useState<string[]>([]);
-  const [accessRoles, setAccessRoles] = useState<string[]>(fallbackAccessRoles);
+  const { accessRoles, documentCategories } = useDocumentOptions();
+  const uploadAction = useDocumentUpload();
   const [file, setFile] = useState<File | null>(null);
-  const [isUploading, setIsUploading] = useState(false);
-  const [error, setError] = useState("");
+  const [validationError, setValidationError] = useState("");
   const [uploadedDocument, setUploadedDocument] =
     useState<DocumentUploadResponse | null>(null);
-
-  useEffect(() => {
-    let ignore = false;
-
-    async function loadAccessRoles() {
-      try {
-        const response = await getAccessRolesRequest();
-
-        if (!ignore && response.roles.length > 0) {
-          setAccessRoles(response.roles);
-        }
-      } catch {
-        if (!ignore) {
-          setAccessRoles(fallbackAccessRoles);
-        }
-      }
-    }
-
-    void loadAccessRoles();
-
-    return () => {
-      ignore = true;
-    };
-  }, []);
+  const isUploading = uploadAction.isLoading;
+  const error = validationError || uploadAction.error;
 
   const canSubmit = useMemo(
     () =>
@@ -229,13 +236,13 @@ function UploadDocumentPanel() {
     event.preventDefault();
 
     if (!file) {
-      setError("Select a document before uploading.");
+      setValidationError("Select a document before uploading.");
       return;
     }
 
-    setError("");
+    setValidationError("");
+    uploadAction.clearError();
     setUploadedDocument(null);
-    setIsUploading(true);
 
     const formData = new FormData();
     formData.append("document_name", documentName.trim());
@@ -247,8 +254,9 @@ function UploadDocumentPanel() {
       formData.append("product_name", productName.trim());
     }
 
-    try {
-      const uploaded = await uploadDocumentRequest(formData);
+    const uploaded = await uploadAction.execute(formData);
+
+    if (uploaded) {
       setUploadedDocument(uploaded);
       setDocumentName("");
       setCategory("");
@@ -256,14 +264,7 @@ function UploadDocumentPanel() {
       setAllowedRoles([]);
       setFile(null);
       event.currentTarget.reset();
-    } catch (uploadError) {
-      setError(
-        uploadError instanceof Error
-          ? uploadError.message
-          : "Unable to upload document.",
-      );
-    } finally {
-      setIsUploading(false);
+      onUploadComplete();
     }
   }
 
@@ -287,12 +288,19 @@ function UploadDocumentPanel() {
         </Field>
 
         <Field label="Category" htmlFor="category" required>
-          <Input
+          <select
             id="category"
             value={category}
             onChange={(event) => setCategory(event.target.value)}
-            placeholder="Catalog, pricing, policy"
-          />
+            className="flex h-11 w-full rounded-md border border-input bg-background px-3 py-2 text-sm shadow-sm outline-none transition-colors focus-visible:ring-2 focus-visible:ring-ring"
+          >
+            <option value="">Select a category</option>
+            {documentCategories.map((documentCategory) => (
+              <option key={documentCategory} value={documentCategory}>
+                {formatRoleLabel(documentCategory)}
+              </option>
+            ))}
+          </select>
         </Field>
 
         <Field label="Product Name" htmlFor="product_name">
@@ -330,8 +338,8 @@ function UploadDocumentPanel() {
         {uploadedDocument ? (
           <div className="flex items-center gap-2 rounded-md border border-emerald-200 bg-emerald-50 px-3 py-2 text-sm font-medium text-emerald-800 md:col-span-2">
             <CheckCircle2 className="h-4 w-4" />
-            Uploaded {uploadedDocument.original_filename} as{" "}
-            {uploadedDocument.document_name}
+            Saved {uploadedDocument.original_filename} as{" "}
+            {uploadedDocument.document_name}. A same-name file replaces the previous version.
           </div>
         ) : null}
 
@@ -364,7 +372,7 @@ function RoleMultiSelect({
   const [isOpen, setIsOpen] = useState(false);
   const selectedLabels = options
     .filter((role) => selectedRoles.includes(role))
-    .map(formatRoleLabel);
+    .map(formatAccessRoleLabel);
 
   function toggleRole(role: string) {
     if (selectedRoles.includes(role)) {
@@ -417,10 +425,20 @@ function RoleMultiSelect({
                   onChange={() => toggleRole(role)}
                   className="h-4 w-4 accent-primary"
                 />
-                <span>{formatRoleLabel(role)}</span>
+                <span>{formatAccessRoleLabel(role)}</span>
               </label>
             );
           })}
+          <div className="mt-2 border-t pt-2">
+            <Button
+              type="button"
+              size="sm"
+              className="w-full"
+              onClick={() => setIsOpen(false)}
+            >
+              OK
+            </Button>
+          </div>
         </div>
       ) : null}
 
@@ -448,6 +466,14 @@ function formatRoleLabel(role: string) {
     .join(" ");
 }
 
+function formatAccessRoleLabel(role: string) {
+  if (role === "sales") {
+    return "Salesperson";
+  }
+
+  return formatRoleLabel(role);
+}
+
 function Field({
   children,
   className,
@@ -468,25 +494,6 @@ function Field({
         {required ? <span className="text-destructive"> *</span> : null}
       </Label>
       {children}
-    </div>
-  );
-}
-
-function ChatBotSection() {
-  return (
-    <div className="mx-auto w-full max-w-7xl px-5 py-6 md:px-8">
-      <section className="grid min-h-[520px] grid-rows-[auto_1fr_auto] rounded-lg border bg-white">
-        <div className="flex items-center gap-2 border-b px-5 py-4">
-          <MessageSquareText className="h-5 w-5 text-primary" />
-          <h1 className="text-lg font-semibold">Chat Bot</h1>
-        </div>
-        <div className="flex items-center justify-center px-5 text-center text-sm text-muted-foreground">
-          Chat workspace will appear here.
-        </div>
-        <div className="border-t p-4">
-          <Input placeholder="Ask a sales question" disabled />
-        </div>
-      </section>
     </div>
   );
 }

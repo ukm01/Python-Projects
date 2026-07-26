@@ -6,7 +6,14 @@ from sqlalchemy import pool
 from alembic import context
 from app.config import settings
 from app.database import Base
-from app.models import document_model, query_log_model, user_model  # noqa: F401
+from app.models import (  # noqa: F401
+    document_access_role_model,
+    document_model,
+    document_chunk_model,
+    password_reset_model,
+    query_log_model,
+    user_model,
+)
 
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
