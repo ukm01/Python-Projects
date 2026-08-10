@@ -1,0 +1,1201 @@
+product_id,product_name,category,brand,list_price,cost_price
+5001,Fashion_Product_5001,Fashion,Zentra,2158.31,1327.48
+5002,Electronics_Product_5002,Electronics,Aster,774.48,528.66
+5003,Grocery_Product_5003,Grocery,Zentra,845.6,520.61
+5004,Books_Product_5004,Books,UrbanKart,99.0,67.93
+5005,Mobile Accessories_Product_5005,Mobile Accessories,DailyPro,584.21,407.1
+5006,Sports_Product_5006,Sports,Omni,2574.88,1722.12
+5007,Toys_Product_5007,Toys,UrbanKart,1415.92,1041.19
+5008,Footwear_Product_5008,Footwear,PrimeOne,3533.56,2438.15
+5009,Toys_Product_5009,Toys,Nova,1175.37,710.45
+5010,Home & Kitchen_Product_5010,Home & Kitchen,Nova,4326.48,3357.1
+5011,Grocery_Product_5011,Grocery,Omni,412.31,273.61
+5012,Mobile Accessories_Product_5012,Mobile Accessories,Aster,1155.19,644.19
+5013,Home & Kitchen_Product_5013,Home & Kitchen,Omni,3348.92,1985.02
+5014,Electronics_Product_5014,Electronics,DailyPro,13831.62,9782.46
+5015,Sports_Product_5015,Sports,Omni,2648.73,1528.99
+5016,Toys_Product_5016,Toys,Zentra,1241.0,797.37
+5017,Books_Product_5017,Books,PrimeOne,676.21,405.37
+5018,Home & Kitchen_Product_5018,Home & Kitchen,UrbanKart,6084.09,4045.98
+5019,Fashion_Product_5019,Fashion,Aster,1437.41,799.35
+5020,Beauty_Product_5020,Beauty,Nova,138.38,80.39
+5021,Toys_Product_5021,Toys,Omni,1897.7,1426.72
+5022,Beauty_Product_5022,Beauty,Omni,1219.96,708.43
+5023,Books_Product_5023,Books,Nova,619.76,393.43
+5024,Beauty_Product_5024,Beauty,Zentra,971.46,578.72
+5025,Home & Kitchen_Product_5025,Home & Kitchen,DailyPro,4719.68,2605.68
+5026,Toys_Product_5026,Toys,Zentra,902.06,507.3
+5027,Beauty_Product_5027,Beauty,BluePeak,1146.78,839.3
+5028,Toys_Product_5028,Toys,PrimeOne,952.72,681.29
+5029,Toys_Product_5029,Toys,Omni,2059.57,1343.55
+5030,Toys_Product_5030,Toys,Aster,967.31,731.28
+5031,Mobile Accessories_Product_5031,Mobile Accessories,Omni,431.08,252.07
+5032,Toys_Product_5032,Toys,Zentra,1498.76,848.09
+5033,Beauty_Product_5033,Beauty,Aster,1174.8,857.7
+5034,Beauty_Product_5034,Beauty,PrimeOne,981.07,544.22
+5035,Home & Kitchen_Product_5035,Home & Kitchen,BluePeak,2849.29,1659.31
+5036,Electronics_Product_5036,Electronics,UrbanKart,12690.47,8019.97
+5037,Books_Product_5037,Books,Zentra,840.13,498.73
+5038,Books_Product_5038,Books,Nova,469.48,327.92
+5039,Grocery_Product_5039,Grocery,Omni,348.21,229.32
+5040,Toys_Product_5040,Toys,UrbanKart,737.69,537.16
+5041,Beauty_Product_5041,Beauty,BluePeak,1052.07,695.0
+5042,Toys_Product_5042,Toys,UrbanKart,1363.39,808.54
+5043,Electronics_Product_5043,Electronics,DailyPro,10493.37,6254.61
+5044,Fashion_Product_5044,Fashion,Omni,1392.46,896.21
+5045,Toys_Product_5045,Toys,PrimeOne,1429.52,966.38
+5046,Grocery_Product_5046,Grocery,Nova,810.71,580.23
+5047,Grocery_Product_5047,Grocery,BluePeak,762.96,467.83
+5048,Footwear_Product_5048,Footwear,BluePeak,2068.16,1281.3
+5049,Mobile Accessories_Product_5049,Mobile Accessories,Aster,837.18,618.03
+5050,Electronics_Product_5050,Electronics,Omni,19497.83,13715.61
+5051,Beauty_Product_5051,Beauty,PrimeOne,841.85,605.08
+5052,Mobile Accessories_Product_5052,Mobile Accessories,Omni,953.96,698.07
+5053,Electronics_Product_5053,Electronics,PrimeOne,19441.37,11027.49
+5054,Electronics_Product_5054,Electronics,Omni,26144.97,14461.96
+5055,Books_Product_5055,Books,Zentra,476.92,347.21
+5056,Beauty_Product_5056,Beauty,Zentra,539.07,363.97
+5057,Footwear_Product_5057,Footwear,PrimeOne,1685.56,1149.99
+5058,Beauty_Product_5058,Beauty,UrbanKart,954.78,721.21
+5059,Books_Product_5059,Books,PrimeOne,292.52,225.25
+5060,Toys_Product_5060,Toys,BluePeak,1222.18,914.22
+5061,Footwear_Product_5061,Footwear,Zentra,2541.04,1536.74
+5062,Electronics_Product_5062,Electronics,Zentra,17933.36,12134.26
+5063,Fashion_Product_5063,Fashion,UrbanKart,981.11,591.63
+5064,Home & Kitchen_Product_5064,Home & Kitchen,UrbanKart,3192.33,2036.78
+5065,Books_Product_5065,Books,PrimeOne,646.31,398.32
+5066,Electronics_Product_5066,Electronics,UrbanKart,15130.06,10131.17
+5067,Electronics_Product_5067,Electronics,Aster,20036.12,13637.79
+5068,Mobile Accessories_Product_5068,Mobile Accessories,DailyPro,641.02,431.08
+5069,Electronics_Product_5069,Electronics,Nova,16008.96,9027.58
+5070,Books_Product_5070,Books,UrbanKart,557.41,356.18
+5071,Home & Kitchen_Product_5071,Home & Kitchen,Nova,2502.07,1564.72
+5072,Books_Product_5072,Books,PrimeOne,769.93,500.46
+5073,Home & Kitchen_Product_5073,Home & Kitchen,Aster,4147.04,2729.18
+5074,Footwear_Product_5074,Footwear,Zentra,1726.1,1325.53
+5075,Mobile Accessories_Product_5075,Mobile Accessories,BluePeak,571.23,338.34
+5076,Home & Kitchen_Product_5076,Home & Kitchen,DailyPro,4736.43,3624.56
+5077,Fashion_Product_5077,Fashion,Aster,3207.94,2205.06
+5078,Home & Kitchen_Product_5078,Home & Kitchen,Nova,2990.58,2315.83
+5079,Books_Product_5079,Books,UrbanKart,99.0,59.24
+5080,Sports_Product_5080,Sports,Omni,2331.89,1553.57
+5081,Fashion_Product_5081,Fashion,PrimeOne,2443.18,1747.61
+5082,Mobile Accessories_Product_5082,Mobile Accessories,UrbanKart,610.63,415.16
+5083,Mobile Accessories_Product_5083,Mobile Accessories,Aster,939.12,548.67
+5084,Electronics_Product_5084,Electronics,PrimeOne,11272.92,6966.79
+5085,Home & Kitchen_Product_5085,Home & Kitchen,DailyPro,4907.05,3086.77
+5086,Toys_Product_5086,Toys,PrimeOne,1094.31,769.26
+5087,Footwear_Product_5087,Footwear,Aster,2569.39,1875.31
+5088,Grocery_Product_5088,Grocery,PrimeOne,781.54,547.28
+5089,Sports_Product_5089,Sports,DailyPro,3051.09,1909.65
+5090,Footwear_Product_5090,Footwear,BluePeak,3079.4,2132.8
+5091,Toys_Product_5091,Toys,Aster,1247.17,694.9
+5092,Grocery_Product_5092,Grocery,PrimeOne,466.89,315.16
+5093,Books_Product_5093,Books,DailyPro,492.2,329.73
+5094,Electronics_Product_5094,Electronics,Omni,3772.25,2230.6
+5095,Toys_Product_5095,Toys,Zentra,1711.79,1211.09
+5096,Footwear_Product_5096,Footwear,BluePeak,2447.61,1850.52
+5097,Home & Kitchen_Product_5097,Home & Kitchen,Zentra,5267.9,3529.47
+5098,Toys_Product_5098,Toys,DailyPro,1178.56,790.9
+5099,Sports_Product_5099,Sports,PrimeOne,3485.82,2101.95
+5100,Sports_Product_5100,Sports,Zentra,2447.43,1863.59
+5101,Home & Kitchen_Product_5101,Home & Kitchen,BluePeak,3819.21,2844.45
+5102,Toys_Product_5102,Toys,BluePeak,1156.57,760.36
+5103,Footwear_Product_5103,Footwear,UrbanKart,2247.0,1293.11
+5104,Grocery_Product_5104,Grocery,BluePeak,473.79,364.41
+5105,Fashion_Product_5105,Fashion,UrbanKart,3221.42,2163.51
+5106,Grocery_Product_5106,Grocery,Aster,700.93,425.68
+5107,Toys_Product_5107,Toys,Zentra,2155.68,1445.53
+5108,Books_Product_5108,Books,Omni,552.99,345.68
+5109,Sports_Product_5109,Sports,Aster,2394.42,1738.79
+5110,Toys_Product_5110,Toys,Omni,1302.47,874.26
+5111,Toys_Product_5111,Toys,PrimeOne,1416.79,1069.68
+5112,Grocery_Product_5112,Grocery,BluePeak,947.87,671.75
+5113,Electronics_Product_5113,Electronics,Zentra,13221.01,9130.5
+5114,Sports_Product_5114,Sports,BluePeak,4500.86,3279.31
+5115,Sports_Product_5115,Sports,Zentra,1310.02,776.44
+5116,Fashion_Product_5116,Fashion,Nova,776.19,506.38
+5117,Home & Kitchen_Product_5117,Home & Kitchen,Aster,4511.74,3196.71
+5118,Mobile Accessories_Product_5118,Mobile Accessories,Aster,735.63,477.13
+5119,Beauty_Product_5119,Beauty,DailyPro,750.04,440.22
+5120,Toys_Product_5120,Toys,UrbanKart,870.4,521.88
+5121,Beauty_Product_5121,Beauty,Aster,1133.03,729.2
+5122,Grocery_Product_5122,Grocery,Aster,430.44,320.29
+5123,Beauty_Product_5123,Beauty,BluePeak,902.93,561.33
+5124,Electronics_Product_5124,Electronics,PrimeOne,16329.01,9077.37
+5125,Electronics_Product_5125,Electronics,UrbanKart,10385.16,6814.74
+5126,Toys_Product_5126,Toys,Zentra,1534.88,1002.94
+5127,Toys_Product_5127,Toys,UrbanKart,160.33,116.97
+5128,Electronics_Product_5128,Electronics,Zentra,16916.2,10364.87
+5129,Footwear_Product_5129,Footwear,BluePeak,3719.85,2225.88
+5130,Toys_Product_5130,Toys,Zentra,1083.06,799.16
+5131,Mobile Accessories_Product_5131,Mobile Accessories,Zentra,1133.4,878.46
+5132,Footwear_Product_5132,Footwear,Nova,909.44,618.83
+5133,Beauty_Product_5133,Beauty,BluePeak,891.36,655.5
+5134,Books_Product_5134,Books,BluePeak,351.01,197.97
+5135,Grocery_Product_5135,Grocery,Nova,235.53,154.11
+5136,Footwear_Product_5136,Footwear,Nova,2842.11,1856.51
+5137,Sports_Product_5137,Sports,PrimeOne,2320.59,1293.02
+5138,Home & Kitchen_Product_5138,Home & Kitchen,Omni,3626.35,2553.18
+5139,Books_Product_5139,Books,Omni,232.64,148.63
+5140,Footwear_Product_5140,Footwear,PrimeOne,1648.79,1111.0
+5141,Sports_Product_5141,Sports,Omni,3065.95,1790.27
+5142,Mobile Accessories_Product_5142,Mobile Accessories,DailyPro,453.6,314.54
+5143,Fashion_Product_5143,Fashion,UrbanKart,900.62,528.78
+5144,Beauty_Product_5144,Beauty,Aster,1419.01,968.28
+5145,Footwear_Product_5145,Footwear,UrbanKart,803.56,571.45
+5146,Beauty_Product_5146,Beauty,DailyPro,929.85,667.15
+5147,Electronics_Product_5147,Electronics,DailyPro,27207.34,16924.69
+5148,Books_Product_5148,Books,BluePeak,459.16,300.27
+5149,Fashion_Product_5149,Fashion,DailyPro,1148.31,781.59
+5150,Mobile Accessories_Product_5150,Mobile Accessories,Nova,521.69,389.87
+5151,Toys_Product_5151,Toys,PrimeOne,1658.11,1269.39
+5152,Mobile Accessories_Product_5152,Mobile Accessories,Zentra,931.53,708.11
+5153,Mobile Accessories_Product_5153,Mobile Accessories,Omni,679.67,509.8
+5154,Sports_Product_5154,Sports,DailyPro,3508.13,1957.89
+5155,Mobile Accessories_Product_5155,Mobile Accessories,PrimeOne,715.03,479.46
+5156,Beauty_Product_5156,Beauty,PrimeOne,810.21,567.37
+5157,Fashion_Product_5157,Fashion,UrbanKart,1728.41,1183.81
+5158,Home & Kitchen_Product_5158,Home & Kitchen,PrimeOne,3964.85,2893.44
+5159,Beauty_Product_5159,Beauty,Zentra,385.12,293.26
+5160,Beauty_Product_5160,Beauty,BluePeak,1488.45,819.96
+5161,Books_Product_5161,Books,Aster,537.38,352.09
+5162,Sports_Product_5162,Sports,BluePeak,2819.05,1801.01
+5163,Books_Product_5163,Books,Zentra,446.78,247.46
+5164,Grocery_Product_5164,Grocery,Aster,967.69,549.77
+5165,Footwear_Product_5165,Footwear,Zentra,2796.26,1784.29
+5166,Books_Product_5166,Books,BluePeak,610.88,395.08
+5167,Books_Product_5167,Books,Nova,320.09,240.92
+5168,Grocery_Product_5168,Grocery,UrbanKart,724.68,419.11
+5169,Mobile Accessories_Product_5169,Mobile Accessories,DailyPro,432.5,315.4
+5170,Books_Product_5170,Books,PrimeOne,619.09,469.04
+5171,Mobile Accessories_Product_5171,Mobile Accessories,DailyPro,811.95,560.89
+5172,Sports_Product_5172,Sports,Zentra,2439.79,1429.19
+5173,Toys_Product_5173,Toys,Omni,606.42,424.62
+5174,Toys_Product_5174,Toys,UrbanKart,944.29,583.46
+5175,Books_Product_5175,Books,Aster,415.62,283.79
+5176,Grocery_Product_5176,Grocery,BluePeak,882.78,602.25
+5177,Mobile Accessories_Product_5177,Mobile Accessories,DailyPro,963.65,548.88
+5178,Electronics_Product_5178,Electronics,UrbanKart,10017.23,7073.43
+5179,Home & Kitchen_Product_5179,Home & Kitchen,Zentra,4760.07,2628.01
+5180,Home & Kitchen_Product_5180,Home & Kitchen,Zentra,3535.28,2040.17
+5181,Home & Kitchen_Product_5181,Home & Kitchen,UrbanKart,3335.71,1990.05
+5182,Toys_Product_5182,Toys,Nova,893.52,677.7
+5183,Books_Product_5183,Books,Nova,504.42,299.29
+5184,Fashion_Product_5184,Fashion,Nova,1639.15,960.0
+5185,Grocery_Product_5185,Grocery,Zentra,855.48,585.13
+5186,Beauty_Product_5186,Beauty,DailyPro,668.04,472.88
+5187,Grocery_Product_5187,Grocery,BluePeak,581.88,408.31
+5188,Books_Product_5188,Books,BluePeak,366.48,232.79
+5189,Sports_Product_5189,Sports,Nova,1782.54,1349.48
+5190,Books_Product_5190,Books,UrbanKart,255.6,148.06
+5191,Home & Kitchen_Product_5191,Home & Kitchen,Aster,2147.2,1649.04
+5192,Mobile Accessories_Product_5192,Mobile Accessories,Omni,1032.62,762.67
+5193,Home & Kitchen_Product_5193,Home & Kitchen,Aster,2797.41,1983.3
+5194,Home & Kitchen_Product_5194,Home & Kitchen,DailyPro,4315.58,2451.92
+5195,Fashion_Product_5195,Fashion,DailyPro,2773.02,2111.24
+5196,Footwear_Product_5196,Footwear,Zentra,3178.97,1766.25
+5197,Beauty_Product_5197,Beauty,UrbanKart,717.87,478.81
+5198,Electronics_Product_5198,Electronics,BluePeak,6511.13,4864.38
+5199,Toys_Product_5199,Toys,DailyPro,1103.98,658.28
+5200,Home & Kitchen_Product_5200,Home & Kitchen,Nova,2244.91,1330.39
+5201,Mobile Accessories_Product_5201,Mobile Accessories,PrimeOne,644.15,394.73
+5202,Toys_Product_5202,Toys,DailyPro,2036.8,1224.8
+5203,Mobile Accessories_Product_5203,Mobile Accessories,PrimeOne,272.24,171.14
+5204,Electronics_Product_5204,Electronics,PrimeOne,18557.36,10349.41
+5205,Sports_Product_5205,Sports,BluePeak,2265.0,1502.77
+5206,Fashion_Product_5206,Fashion,Aster,2088.76,1601.14
+5207,Books_Product_5207,Books,Omni,157.45,99.23
+5208,Books_Product_5208,Books,Aster,402.55,223.28
+5209,Electronics_Product_5209,Electronics,PrimeOne,15000.26,11218.62
+5210,Mobile Accessories_Product_5210,Mobile Accessories,BluePeak,1053.79,637.84
+5211,Electronics_Product_5211,Electronics,Aster,19243.85,14388.97
+5212,Beauty_Product_5212,Beauty,PrimeOne,768.19,516.93
+5213,Toys_Product_5213,Toys,Omni,579.26,370.26
+5214,Toys_Product_5214,Toys,BluePeak,2159.64,1454.19
+5215,Footwear_Product_5215,Footwear,PrimeOne,1853.43,1408.04
+5216,Fashion_Product_5216,Fashion,Omni,1201.93,809.41
+5217,Sports_Product_5217,Sports,Zentra,2137.85,1644.17
+5218,Books_Product_5218,Books,Nova,501.89,318.04
+5219,Home & Kitchen_Product_5219,Home & Kitchen,Zentra,3655.75,2543.8
+5220,Footwear_Product_5220,Footwear,BluePeak,1478.64,878.1
+5221,Footwear_Product_5221,Footwear,Zentra,1251.45,791.56
+5222,Fashion_Product_5222,Fashion,Aster,1054.89,751.4
+5223,Fashion_Product_5223,Fashion,DailyPro,868.98,676.18
+5224,Home & Kitchen_Product_5224,Home & Kitchen,Nova,3292.84,2030.39
+5225,Fashion_Product_5225,Fashion,Nova,1530.28,881.38
+5226,Footwear_Product_5226,Footwear,Nova,1898.12,1321.6
+5227,Grocery_Product_5227,Grocery,BluePeak,740.9,462.43
+5228,Grocery_Product_5228,Grocery,PrimeOne,539.88,419.99
+5229,Mobile Accessories_Product_5229,Mobile Accessories,Aster,99.0,60.12
+5230,Sports_Product_5230,Sports,Aster,1966.07,1321.01
+5231,Footwear_Product_5231,Footwear,Zentra,2466.07,1447.67
+5232,Grocery_Product_5232,Grocery,PrimeOne,614.1,345.1
+5233,Grocery_Product_5233,Grocery,Omni,556.15,411.27
+5234,Beauty_Product_5234,Beauty,Zentra,822.06,503.15
+5235,Electronics_Product_5235,Electronics,UrbanKart,23836.87,15660.12
+5236,Toys_Product_5236,Toys,UrbanKart,1246.13,693.32
+5237,Footwear_Product_5237,Footwear,Zentra,1949.91,1502.21
+5238,Toys_Product_5238,Toys,Nova,1471.63,829.17
+5239,Grocery_Product_5239,Grocery,Zentra,296.5,203.38
+5240,Beauty_Product_5240,Beauty,Aster,817.55,607.48
+5241,Books_Product_5241,Books,Zentra,500.92,295.42
+5242,Beauty_Product_5242,Beauty,Nova,909.86,692.04
+5243,Mobile Accessories_Product_5243,Mobile Accessories,Omni,759.38,456.56
+5244,Beauty_Product_5244,Beauty,BluePeak,725.96,507.33
+5245,Toys_Product_5245,Toys,Zentra,951.83,694.4
+5246,Books_Product_5246,Books,Nova,104.77,59.0
+5247,Mobile Accessories_Product_5247,Mobile Accessories,UrbanKart,573.6,327.33
+5248,Fashion_Product_5248,Fashion,DailyPro,1328.8,808.95
+5249,Fashion_Product_5249,Fashion,Aster,2557.27,1426.45
+5250,Sports_Product_5250,Sports,UrbanKart,3157.91,1943.84
+5251,Home & Kitchen_Product_5251,Home & Kitchen,DailyPro,3610.33,2519.1
+5252,Footwear_Product_5252,Footwear,UrbanKart,1103.19,853.24
+5253,Grocery_Product_5253,Grocery,DailyPro,588.02,454.47
+5254,Grocery_Product_5254,Grocery,PrimeOne,482.14,307.45
+5255,Fashion_Product_5255,Fashion,Aster,1304.31,828.99
+5256,Fashion_Product_5256,Fashion,DailyPro,335.87,238.9
+5257,Home & Kitchen_Product_5257,Home & Kitchen,Aster,3402.27,1919.36
+5258,Books_Product_5258,Books,PrimeOne,356.01,235.81
+5259,Footwear_Product_5259,Footwear,Zentra,2573.8,1698.29
+5260,Footwear_Product_5260,Footwear,BluePeak,3162.06,2121.79
+5261,Fashion_Product_5261,Fashion,Omni,3089.62,1923.87
+5262,Mobile Accessories_Product_5262,Mobile Accessories,Aster,671.86,417.6
+5263,Toys_Product_5263,Toys,Zentra,1003.02,567.05
+5264,Fashion_Product_5264,Fashion,Nova,2444.34,1411.46
+5265,Grocery_Product_5265,Grocery,Omni,360.58,253.67
+5266,Grocery_Product_5266,Grocery,BluePeak,816.75,562.23
+5267,Grocery_Product_5267,Grocery,PrimeOne,566.3,405.91
+5268,Grocery_Product_5268,Grocery,Nova,463.18,353.15
+5269,Toys_Product_5269,Toys,Nova,1232.12,693.25
+5270,Fashion_Product_5270,Fashion,PrimeOne,1476.29,904.87
+5271,Footwear_Product_5271,Footwear,Omni,3022.84,2227.21
+5272,Beauty_Product_5272,Beauty,Nova,1275.88,969.42
+5273,Footwear_Product_5273,Footwear,Omni,1709.83,1065.07
+5274,Footwear_Product_5274,Footwear,PrimeOne,1994.14,1424.73
+5275,Footwear_Product_5275,Footwear,Nova,1800.27,1121.96
+5276,Grocery_Product_5276,Grocery,Omni,607.77,414.67
+5277,Toys_Product_5277,Toys,DailyPro,1621.97,995.5
+5278,Fashion_Product_5278,Fashion,Aster,1289.35,919.72
+5279,Footwear_Product_5279,Footwear,Nova,1690.22,1208.7
+5280,Beauty_Product_5280,Beauty,Nova,970.57,617.56
+5281,Mobile Accessories_Product_5281,Mobile Accessories,Omni,792.76,545.71
+5282,Mobile Accessories_Product_5282,Mobile Accessories,Zentra,903.44,565.71
+5283,Home & Kitchen_Product_5283,Home & Kitchen,Nova,4736.6,2884.52
+5284,Electronics_Product_5284,Electronics,UrbanKart,20279.43,15726.81
+5285,Books_Product_5285,Books,PrimeOne,186.12,139.6
+5286,Toys_Product_5286,Toys,BluePeak,1366.72,878.39
+5287,Fashion_Product_5287,Fashion,BluePeak,1441.9,835.4
+5288,Toys_Product_5288,Toys,Nova,1404.54,1026.79
+5289,Beauty_Product_5289,Beauty,PrimeOne,1184.28,667.62
+5290,Beauty_Product_5290,Beauty,Zentra,1016.46,757.79
+5291,Books_Product_5291,Books,PrimeOne,99.0,61.58
+5292,Grocery_Product_5292,Grocery,DailyPro,526.53,338.3
+5293,Electronics_Product_5293,Electronics,Aster,17226.95,10646.64
+5294,Sports_Product_5294,Sports,BluePeak,1651.4,1005.24
+5295,Home & Kitchen_Product_5295,Home & Kitchen,Omni,4486.65,3170.08
+5296,Footwear_Product_5296,Footwear,Aster,2387.98,1440.56
+5297,Sports_Product_5297,Sports,Nova,2826.3,1937.59
+5298,Mobile Accessories_Product_5298,Mobile Accessories,Zentra,931.78,698.79
+5299,Footwear_Product_5299,Footwear,Aster,1470.76,1054.75
+5300,Books_Product_5300,Books,Omni,479.85,364.24
+5301,Electronics_Product_5301,Electronics,Nova,30982.15,23508.96
+5302,Grocery_Product_5302,Grocery,UrbanKart,382.63,216.83
+5303,Fashion_Product_5303,Fashion,DailyPro,1399.7,903.01
+5304,Fashion_Product_5304,Fashion,PrimeOne,1559.66,1188.39
+5305,Home & Kitchen_Product_5305,Home & Kitchen,Nova,2811.84,1993.43
+5306,Footwear_Product_5306,Footwear,Nova,2197.86,1654.9
+5307,Books_Product_5307,Books,Nova,179.57,131.83
+5308,Home & Kitchen_Product_5308,Home & Kitchen,DailyPro,3765.27,2814.06
+5309,Books_Product_5309,Books,UrbanKart,720.11,407.93
+5310,Mobile Accessories_Product_5310,Mobile Accessories,Nova,866.35,592.16
+5311,Sports_Product_5311,Sports,PrimeOne,3472.08,2677.35
+5312,Grocery_Product_5312,Grocery,PrimeOne,706.45,449.9
+5313,Fashion_Product_5313,Fashion,Nova,1317.47,883.53
+5314,Grocery_Product_5314,Grocery,Omni,158.47,89.49
+5315,Books_Product_5315,Books,Zentra,486.5,362.96
+5316,Sports_Product_5316,Sports,Omni,2708.39,1750.09
+5317,Books_Product_5317,Books,DailyPro,514.55,308.68
+5318,Fashion_Product_5318,Fashion,Aster,3321.61,1955.36
+5319,Beauty_Product_5319,Beauty,BluePeak,1141.94,886.32
+5320,Beauty_Product_5320,Beauty,Nova,451.56,279.78
+5321,Sports_Product_5321,Sports,Omni,2198.07,1550.6
+5322,Footwear_Product_5322,Footwear,UrbanKart,2611.24,1876.16
+5323,Sports_Product_5323,Sports,Aster,3635.53,2247.49
+5324,Grocery_Product_5324,Grocery,PrimeOne,476.5,277.04
+5325,Electronics_Product_5325,Electronics,UrbanKart,12614.88,9549.04
+5326,Grocery_Product_5326,Grocery,Zentra,257.57,182.29
+5327,Books_Product_5327,Books,BluePeak,631.41,352.24
+5328,Electronics_Product_5328,Electronics,Aster,21117.61,14118.32
+5329,Electronics_Product_5329,Electronics,UrbanKart,14961.46,9902.14
+5330,Toys_Product_5330,Toys,Aster,864.27,493.11
+5331,Sports_Product_5331,Sports,BluePeak,2290.38,1675.96
+5332,Mobile Accessories_Product_5332,Mobile Accessories,Zentra,420.83,270.43
+5333,Toys_Product_5333,Toys,Omni,841.62,493.5
+5334,Fashion_Product_5334,Fashion,Omni,613.04,351.52
+5335,Home & Kitchen_Product_5335,Home & Kitchen,Aster,2250.81,1561.64
+5336,Fashion_Product_5336,Fashion,Nova,1911.34,1227.82
+5337,Mobile Accessories_Product_5337,Mobile Accessories,BluePeak,1278.15,744.99
+5338,Beauty_Product_5338,Beauty,DailyPro,706.4,472.75
+5339,Beauty_Product_5339,Beauty,PrimeOne,1102.11,649.63
+5340,Footwear_Product_5340,Footwear,DailyPro,1555.01,987.12
+5341,Home & Kitchen_Product_5341,Home & Kitchen,PrimeOne,3287.23,2332.41
+5342,Mobile Accessories_Product_5342,Mobile Accessories,Aster,891.9,493.12
+5343,Footwear_Product_5343,Footwear,Nova,2869.5,1971.32
+5344,Beauty_Product_5344,Beauty,UrbanKart,860.35,574.0
+5345,Grocery_Product_5345,Grocery,Aster,673.07,480.29
+5346,Footwear_Product_5346,Footwear,Nova,1900.7,1477.63
+5347,Fashion_Product_5347,Fashion,UrbanKart,2250.41,1706.61
+5348,Mobile Accessories_Product_5348,Mobile Accessories,Nova,1216.15,797.99
+5349,Grocery_Product_5349,Grocery,DailyPro,748.8,451.2
+5350,Books_Product_5350,Books,Zentra,438.82,247.3
+5351,Mobile Accessories_Product_5351,Mobile Accessories,Omni,820.34,638.83
+5352,Fashion_Product_5352,Fashion,BluePeak,1952.82,1417.93
+5353,Fashion_Product_5353,Fashion,PrimeOne,1794.64,1215.5
+5354,Toys_Product_5354,Toys,Zentra,789.87,539.9
+5355,Toys_Product_5355,Toys,DailyPro,780.37,592.67
+5356,Mobile Accessories_Product_5356,Mobile Accessories,DailyPro,594.69,349.14
+5357,Electronics_Product_5357,Electronics,Nova,20809.53,15300.57
+5358,Toys_Product_5358,Toys,BluePeak,1373.6,1032.48
+5359,Grocery_Product_5359,Grocery,DailyPro,597.45,355.58
+5360,Fashion_Product_5360,Fashion,Aster,542.42,380.28
+5361,Electronics_Product_5361,Electronics,Nova,36756.11,22698.46
+5362,Footwear_Product_5362,Footwear,Aster,1655.1,1003.66
+5363,Books_Product_5363,Books,PrimeOne,349.63,206.56
+5364,Home & Kitchen_Product_5364,Home & Kitchen,Nova,6593.67,4935.33
+5365,Mobile Accessories_Product_5365,Mobile Accessories,UrbanKart,1117.24,770.32
+5366,Beauty_Product_5366,Beauty,BluePeak,1006.77,682.51
+5367,Toys_Product_5367,Toys,DailyPro,192.25,105.81
+5368,Books_Product_5368,Books,DailyPro,151.64,90.2
+5369,Home & Kitchen_Product_5369,Home & Kitchen,UrbanKart,3230.15,2270.22
+5370,Beauty_Product_5370,Beauty,PrimeOne,383.24,252.67
+5371,Beauty_Product_5371,Beauty,Omni,985.1,599.47
+5372,Mobile Accessories_Product_5372,Mobile Accessories,DailyPro,853.94,592.54
+5373,Toys_Product_5373,Toys,PrimeOne,1062.75,600.39
+5374,Books_Product_5374,Books,BluePeak,306.97,183.85
+5375,Home & Kitchen_Product_5375,Home & Kitchen,Nova,2268.18,1548.2
+5376,Electronics_Product_5376,Electronics,DailyPro,16489.51,11942.02
+5377,Home & Kitchen_Product_5377,Home & Kitchen,BluePeak,4545.48,2973.16
+5378,Electronics_Product_5378,Electronics,BluePeak,20420.11,12100.5
+5379,Toys_Product_5379,Toys,Aster,931.79,534.71
+5380,Mobile Accessories_Product_5380,Mobile Accessories,DailyPro,968.27,624.98
+5381,Footwear_Product_5381,Footwear,UrbanKart,1629.18,1134.64
+5382,Sports_Product_5382,Sports,Omni,2263.28,1524.47
+5383,Sports_Product_5383,Sports,Nova,1666.38,991.07
+5384,Sports_Product_5384,Sports,Aster,2607.16,1977.17
+5385,Grocery_Product_5385,Grocery,Omni,757.01,572.72
+5386,Beauty_Product_5386,Beauty,Zentra,1165.23,746.09
+5387,Mobile Accessories_Product_5387,Mobile Accessories,DailyPro,858.52,611.79
+5388,Sports_Product_5388,Sports,Omni,4607.97,2763.29
+5389,Toys_Product_5389,Toys,DailyPro,1364.01,877.79
+5390,Fashion_Product_5390,Fashion,BluePeak,1687.71,1239.56
+5391,Toys_Product_5391,Toys,BluePeak,1078.39,810.56
+5392,Beauty_Product_5392,Beauty,Zentra,1225.59,689.97
+5393,Fashion_Product_5393,Fashion,PrimeOne,2029.8,1396.3
+5394,Mobile Accessories_Product_5394,Mobile Accessories,Nova,674.86,429.41
+5395,Sports_Product_5395,Sports,Omni,2045.94,1374.24
+5396,Electronics_Product_5396,Electronics,Zentra,16818.56,10757.99
+5397,Footwear_Product_5397,Footwear,Omni,1886.11,1209.5
+5398,Books_Product_5398,Books,BluePeak,553.94,391.2
+5399,Mobile Accessories_Product_5399,Mobile Accessories,Omni,684.28,493.08
+5400,Mobile Accessories_Product_5400,Mobile Accessories,PrimeOne,926.32,547.58
+5401,Home & Kitchen_Product_5401,Home & Kitchen,UrbanKart,5039.45,2955.36
+5402,Footwear_Product_5402,Footwear,DailyPro,1080.06,803.68
+5403,Sports_Product_5403,Sports,Zentra,2165.58,1340.96
+5404,Home & Kitchen_Product_5404,Home & Kitchen,DailyPro,1924.22,1332.31
+5405,Mobile Accessories_Product_5405,Mobile Accessories,Zentra,993.77,721.54
+5406,Toys_Product_5406,Toys,Aster,1610.35,1174.79
+5407,Mobile Accessories_Product_5407,Mobile Accessories,DailyPro,1170.06,847.38
+5408,Sports_Product_5408,Sports,Aster,2728.36,1729.45
+5409,Sports_Product_5409,Sports,Zentra,2748.28,2112.33
+5410,Toys_Product_5410,Toys,Omni,1483.57,1020.47
+5411,Footwear_Product_5411,Footwear,BluePeak,3020.18,1989.27
+5412,Beauty_Product_5412,Beauty,Nova,416.07,274.27
+5413,Grocery_Product_5413,Grocery,Omni,767.68,436.09
+5414,Books_Product_5414,Books,Omni,270.83,152.42
+5415,Home & Kitchen_Product_5415,Home & Kitchen,Nova,3308.35,1872.07
+5416,Grocery_Product_5416,Grocery,Zentra,657.39,404.63
+5417,Beauty_Product_5417,Beauty,Nova,1217.68,886.9
+5418,Beauty_Product_5418,Beauty,UrbanKart,1028.65,616.66
+5419,Beauty_Product_5419,Beauty,Zentra,1087.38,819.33
+5420,Footwear_Product_5420,Footwear,Nova,2233.0,1295.89
+5421,Sports_Product_5421,Sports,Nova,1857.07,1129.99
+5422,Books_Product_5422,Books,UrbanKart,282.86,191.34
+5423,Home & Kitchen_Product_5423,Home & Kitchen,BluePeak,4127.7,2696.34
+5424,Footwear_Product_5424,Footwear,Zentra,1624.39,1200.99
+5425,Toys_Product_5425,Toys,DailyPro,1507.33,1073.4
+5426,Mobile Accessories_Product_5426,Mobile Accessories,DailyPro,842.49,494.85
+5427,Fashion_Product_5427,Fashion,PrimeOne,1850.82,1203.81
+5428,Sports_Product_5428,Sports,BluePeak,2286.94,1549.8
+5429,Fashion_Product_5429,Fashion,BluePeak,1742.82,1346.41
+5430,Toys_Product_5430,Toys,Zentra,878.95,499.51
+5431,Mobile Accessories_Product_5431,Mobile Accessories,Aster,1387.99,956.52
+5432,Sports_Product_5432,Sports,UrbanKart,3840.22,2232.8
+5433,Grocery_Product_5433,Grocery,BluePeak,699.64,522.44
+5434,Beauty_Product_5434,Beauty,Nova,422.61,285.3
+5435,Electronics_Product_5435,Electronics,UrbanKart,20521.17,12277.44
+5436,Sports_Product_5436,Sports,Omni,2612.51,1787.71
+5437,Grocery_Product_5437,Grocery,Omni,710.18,444.95
+5438,Sports_Product_5438,Sports,Nova,3689.07,2245.45
+5439,Sports_Product_5439,Sports,BluePeak,2134.79,1178.82
+5440,Grocery_Product_5440,Grocery,Nova,501.52,353.62
+5441,Home & Kitchen_Product_5441,Home & Kitchen,DailyPro,4763.69,3043.47
+5442,Mobile Accessories_Product_5442,Mobile Accessories,DailyPro,1125.98,843.71
+5443,Footwear_Product_5443,Footwear,UrbanKart,2346.87,1819.08
+5444,Books_Product_5444,Books,PrimeOne,744.85,486.27
+5445,Mobile Accessories_Product_5445,Mobile Accessories,PrimeOne,257.83,166.81
+5446,Sports_Product_5446,Sports,Aster,2885.07,2035.93
+5447,Toys_Product_5447,Toys,Nova,1319.81,864.64
+5448,Home & Kitchen_Product_5448,Home & Kitchen,PrimeOne,5110.38,2960.84
+5449,Fashion_Product_5449,Fashion,Aster,1134.33,684.59
+5450,Home & Kitchen_Product_5450,Home & Kitchen,DailyPro,4878.76,2955.8
+5451,Mobile Accessories_Product_5451,Mobile Accessories,Nova,629.98,475.01
+5452,Electronics_Product_5452,Electronics,BluePeak,16974.64,10770.86
+5453,Grocery_Product_5453,Grocery,UrbanKart,434.72,333.01
+5454,Sports_Product_5454,Sports,BluePeak,1319.59,804.79
+5455,Beauty_Product_5455,Beauty,BluePeak,1129.39,865.41
+5456,Toys_Product_5456,Toys,Nova,1015.37,644.21
+5457,Footwear_Product_5457,Footwear,DailyPro,1535.66,1065.43
+5458,Beauty_Product_5458,Beauty,Zentra,622.75,403.6
+5459,Toys_Product_5459,Toys,Omni,1134.66,659.86
+5460,Beauty_Product_5460,Beauty,UrbanKart,1016.82,752.97
+5461,Electronics_Product_5461,Electronics,UrbanKart,27766.41,18501.35
+5462,Sports_Product_5462,Sports,Aster,788.48,487.24
+5463,Grocery_Product_5463,Grocery,DailyPro,564.42,436.74
+5464,Electronics_Product_5464,Electronics,DailyPro,20019.78,11709.03
+5465,Grocery_Product_5465,Grocery,Nova,510.46,304.08
+5466,Books_Product_5466,Books,Nova,725.4,546.15
+5467,Books_Product_5467,Books,Nova,452.5,323.56
+5468,Toys_Product_5468,Toys,UrbanKart,1163.55,882.8
+5469,Footwear_Product_5469,Footwear,Zentra,1370.35,983.41
+5470,Home & Kitchen_Product_5470,Home & Kitchen,DailyPro,4078.85,2531.27
+5471,Home & Kitchen_Product_5471,Home & Kitchen,Aster,3309.98,2526.68
+5472,Mobile Accessories_Product_5472,Mobile Accessories,Aster,1107.23,674.87
+5473,Beauty_Product_5473,Beauty,BluePeak,645.48,408.45
+5474,Grocery_Product_5474,Grocery,Nova,642.96,455.68
+5475,Electronics_Product_5475,Electronics,Nova,20398.85,12380.34
+5476,Sports_Product_5476,Sports,UrbanKart,3036.82,1706.58
+5477,Electronics_Product_5477,Electronics,Nova,20662.01,12430.5
+5478,Beauty_Product_5478,Beauty,Nova,1475.22,817.83
+5479,Electronics_Product_5479,Electronics,Nova,99.0,73.25
+5480,Fashion_Product_5480,Fashion,UrbanKart,1753.74,999.7
+5481,Fashion_Product_5481,Fashion,Aster,1323.67,1018.72
+5482,Toys_Product_5482,Toys,PrimeOne,661.85,505.72
+5483,Sports_Product_5483,Sports,Aster,2957.84,1631.38
+5484,Sports_Product_5484,Sports,Zentra,3185.04,2087.29
+5485,Mobile Accessories_Product_5485,Mobile Accessories,Nova,1386.62,986.05
+5486,Home & Kitchen_Product_5486,Home & Kitchen,UrbanKart,4795.42,2646.2
+5487,Toys_Product_5487,Toys,PrimeOne,770.94,518.69
+5488,Books_Product_5488,Books,BluePeak,198.62,122.12
+5489,Grocery_Product_5489,Grocery,Nova,651.78,439.37
+5490,Mobile Accessories_Product_5490,Mobile Accessories,Omni,856.83,594.14
+5491,Grocery_Product_5491,Grocery,Omni,598.19,465.12
+5492,Sports_Product_5492,Sports,Omni,2383.3,1391.18
+5493,Electronics_Product_5493,Electronics,Aster,17292.77,10352.33
+5494,Books_Product_5494,Books,DailyPro,368.05,243.71
+5495,Electronics_Product_5495,Electronics,Omni,21266.82,12974.15
+5496,Fashion_Product_5496,Fashion,Zentra,1384.04,931.31
+5497,Sports_Product_5497,Sports,UrbanKart,3308.0,2514.52
+5498,Electronics_Product_5498,Electronics,PrimeOne,20076.7,15484.52
+5499,Electronics_Product_5499,Electronics,UrbanKart,11303.45,6923.98
+5500,Grocery_Product_5500,Grocery,DailyPro,425.97,312.58
+5501,Footwear_Product_5501,Footwear,UrbanKart,841.27,650.07
+5502,Beauty_Product_5502,Beauty,BluePeak,1401.16,881.44
+5503,Books_Product_5503,Books,DailyPro,276.99,206.33
+5504,Footwear_Product_5504,Footwear,Zentra,1600.43,979.08
+5505,Home & Kitchen_Product_5505,Home & Kitchen,Aster,3755.35,2335.18
+5506,Books_Product_5506,Books,Nova,859.8,618.28
+5507,Electronics_Product_5507,Electronics,Nova,18652.18,12949.83
+5508,Books_Product_5508,Books,Zentra,420.14,291.23
+5509,Fashion_Product_5509,Fashion,BluePeak,2092.53,1336.38
+5510,Mobile Accessories_Product_5510,Mobile Accessories,Omni,552.83,389.24
+5511,Home & Kitchen_Product_5511,Home & Kitchen,UrbanKart,1142.4,781.62
+5512,Fashion_Product_5512,Fashion,Omni,3604.59,2028.29
+5513,Toys_Product_5513,Toys,Zentra,1124.61,811.94
+5514,Beauty_Product_5514,Beauty,DailyPro,805.84,516.57
+5515,Home & Kitchen_Product_5515,Home & Kitchen,Nova,4490.25,3076.68
+5516,Toys_Product_5516,Toys,Aster,554.45,332.47
+5517,Toys_Product_5517,Toys,Zentra,1358.86,976.76
+5518,Fashion_Product_5518,Fashion,BluePeak,1073.31,787.95
+5519,Electronics_Product_5519,Electronics,Aster,19071.34,14218.88
+5520,Grocery_Product_5520,Grocery,Aster,461.01,308.66
+5521,Beauty_Product_5521,Beauty,PrimeOne,938.53,721.22
+5522,Beauty_Product_5522,Beauty,BluePeak,444.52,322.91
+5523,Fashion_Product_5523,Fashion,BluePeak,1201.57,779.81
+5524,Footwear_Product_5524,Footwear,Nova,2195.93,1620.97
+5525,Fashion_Product_5525,Fashion,Nova,2032.47,1236.56
+5526,Sports_Product_5526,Sports,BluePeak,2599.54,1581.38
+5527,Footwear_Product_5527,Footwear,Omni,930.87,579.63
+5528,Books_Product_5528,Books,Aster,670.66,405.81
+5529,Sports_Product_5529,Sports,Aster,3111.14,1967.69
+5530,Toys_Product_5530,Toys,Aster,700.94,483.11
+5531,Sports_Product_5531,Sports,Nova,2570.57,1576.11
+5532,Beauty_Product_5532,Beauty,DailyPro,634.81,453.49
+5533,Fashion_Product_5533,Fashion,Zentra,263.55,181.61
+5534,Sports_Product_5534,Sports,Omni,2640.34,1875.5
+5535,Toys_Product_5535,Toys,PrimeOne,1876.24,1232.98
+5536,Books_Product_5536,Books,UrbanKart,408.43,311.68
+5537,Footwear_Product_5537,Footwear,UrbanKart,2803.59,1772.12
+5538,Sports_Product_5538,Sports,Omni,3065.6,2149.94
+5539,Home & Kitchen_Product_5539,Home & Kitchen,Aster,4441.2,2987.34
+5540,Sports_Product_5540,Sports,BluePeak,1991.5,1519.9
+5541,Books_Product_5541,Books,PrimeOne,606.89,400.76
+5542,Grocery_Product_5542,Grocery,BluePeak,602.04,467.96
+5543,Books_Product_5543,Books,DailyPro,545.35,335.97
+5544,Beauty_Product_5544,Beauty,Omni,314.1,234.15
+5545,Sports_Product_5545,Sports,PrimeOne,1922.54,1493.54
+5546,Footwear_Product_5546,Footwear,UrbanKart,2305.76,1346.13
+5547,Fashion_Product_5547,Fashion,BluePeak,1925.1,1218.01
+5548,Mobile Accessories_Product_5548,Mobile Accessories,PrimeOne,344.69,245.57
+5549,Electronics_Product_5549,Electronics,Omni,34227.64,25876.43
+5550,Mobile Accessories_Product_5550,Mobile Accessories,Omni,834.08,601.88
+5551,Toys_Product_5551,Toys,Zentra,1178.71,677.85
+5552,Grocery_Product_5552,Grocery,DailyPro,587.75,397.79
+5553,Electronics_Product_5553,Electronics,BluePeak,14950.56,9438.17
+5554,Fashion_Product_5554,Fashion,PrimeOne,1488.42,853.92
+5555,Books_Product_5555,Books,Nova,261.43,183.95
+5556,Books_Product_5556,Books,Omni,642.66,410.7
+5557,Sports_Product_5557,Sports,Aster,2234.03,1228.87
+5558,Footwear_Product_5558,Footwear,Omni,3110.76,1825.59
+5559,Electronics_Product_5559,Electronics,PrimeOne,11296.34,8556.48
+5560,Fashion_Product_5560,Fashion,PrimeOne,2784.42,2068.35
+5561,Footwear_Product_5561,Footwear,Aster,1886.13,1443.98
+5562,Electronics_Product_5562,Electronics,Omni,24311.41,15998.66
+5563,Home & Kitchen_Product_5563,Home & Kitchen,BluePeak,2966.03,2100.65
+5564,Toys_Product_5564,Toys,Nova,660.29,447.1
+5565,Footwear_Product_5565,Footwear,PrimeOne,2037.42,1373.12
+5566,Home & Kitchen_Product_5566,Home & Kitchen,PrimeOne,2894.62,1776.79
+5567,Mobile Accessories_Product_5567,Mobile Accessories,PrimeOne,1023.96,765.39
+5568,Grocery_Product_5568,Grocery,Aster,693.42,412.16
+5569,Electronics_Product_5569,Electronics,Aster,19462.89,13574.96
+5570,Mobile Accessories_Product_5570,Mobile Accessories,UrbanKart,1315.4,1007.37
+5571,Toys_Product_5571,Toys,Omni,1088.45,772.2
+5572,Toys_Product_5572,Toys,Aster,904.03,626.91
+5573,Home & Kitchen_Product_5573,Home & Kitchen,Zentra,1757.71,1098.44
+5574,Home & Kitchen_Product_5574,Home & Kitchen,DailyPro,2072.47,1360.44
+5575,Grocery_Product_5575,Grocery,Nova,522.28,294.55
+5576,Beauty_Product_5576,Beauty,Aster,966.15,540.4
+5577,Mobile Accessories_Product_5577,Mobile Accessories,PrimeOne,923.17,508.57
+5578,Toys_Product_5578,Toys,Zentra,1086.39,690.39
+5579,Sports_Product_5579,Sports,BluePeak,3600.33,1985.57
+5580,Footwear_Product_5580,Footwear,Aster,1677.61,1191.56
+5581,Beauty_Product_5581,Beauty,BluePeak,1119.38,809.12
+5582,Books_Product_5582,Books,Zentra,99.0,66.63
+5583,Beauty_Product_5583,Beauty,Omni,786.66,500.25
+5584,Footwear_Product_5584,Footwear,Aster,2470.0,1367.42
+5585,Grocery_Product_5585,Grocery,DailyPro,1092.6,814.72
+5586,Mobile Accessories_Product_5586,Mobile Accessories,DailyPro,1037.02,748.5
+5587,Home & Kitchen_Product_5587,Home & Kitchen,UrbanKart,992.01,597.32
+5588,Beauty_Product_5588,Beauty,BluePeak,1176.64,770.83
+5589,Electronics_Product_5589,Electronics,Aster,22467.05,17410.08
+5590,Fashion_Product_5590,Fashion,DailyPro,2361.83,1676.8
+5591,Grocery_Product_5591,Grocery,DailyPro,842.18,518.96
+5592,Electronics_Product_5592,Electronics,BluePeak,17446.56,10882.6
+5593,Books_Product_5593,Books,BluePeak,497.18,379.9
+5594,Fashion_Product_5594,Fashion,PrimeOne,695.83,456.42
+5595,Sports_Product_5595,Sports,Omni,2966.3,1787.91
+5596,Mobile Accessories_Product_5596,Mobile Accessories,Aster,648.51,438.26
+5597,Electronics_Product_5597,Electronics,UrbanKart,13207.74,9478.07
+5598,Toys_Product_5598,Toys,Omni,790.19,524.76
+5599,Electronics_Product_5599,Electronics,Aster,8055.61,4960.24
+5600,Fashion_Product_5600,Fashion,Aster,1668.43,1162.01
+5601,Books_Product_5601,Books,Nova,777.81,553.79
+5602,Fashion_Product_5602,Fashion,BluePeak,1714.84,1170.03
+5603,Sports_Product_5603,Sports,Zentra,1920.71,1168.34
+5604,Books_Product_5604,Books,BluePeak,504.2,283.64
+5605,Electronics_Product_5605,Electronics,Omni,18508.31,11099.24
+5606,Grocery_Product_5606,Grocery,BluePeak,752.38,481.39
+5607,Sports_Product_5607,Sports,Omni,2240.61,1607.26
+5608,Grocery_Product_5608,Grocery,Aster,361.8,276.15
+5609,Fashion_Product_5609,Fashion,PrimeOne,1568.19,1107.69
+5610,Toys_Product_5610,Toys,Nova,1375.99,758.73
+5611,Fashion_Product_5611,Fashion,Omni,1071.17,742.86
+5612,Mobile Accessories_Product_5612,Mobile Accessories,UrbanKart,549.61,314.29
+5613,Mobile Accessories_Product_5613,Mobile Accessories,BluePeak,1263.19,928.51
+5614,Toys_Product_5614,Toys,BluePeak,1241.31,773.22
+5615,Mobile Accessories_Product_5615,Mobile Accessories,Omni,1036.69,632.67
+5616,Electronics_Product_5616,Electronics,Nova,6119.45,4070.35
+5617,Footwear_Product_5617,Footwear,Aster,2485.99,1647.44
+5618,Electronics_Product_5618,Electronics,DailyPro,13155.95,7769.02
+5619,Grocery_Product_5619,Grocery,BluePeak,530.25,398.97
+5620,Beauty_Product_5620,Beauty,Aster,595.32,458.43
+5621,Books_Product_5621,Books,Zentra,400.08,238.78
+5622,Beauty_Product_5622,Beauty,BluePeak,1006.64,615.62
+5623,Toys_Product_5623,Toys,Nova,1758.32,988.42
+5624,Mobile Accessories_Product_5624,Mobile Accessories,BluePeak,915.38,593.35
+5625,Footwear_Product_5625,Footwear,UrbanKart,2620.34,1650.57
+5626,Books_Product_5626,Books,UrbanKart,412.88,255.21
+5627,Grocery_Product_5627,Grocery,Aster,451.44,343.26
+5628,Books_Product_5628,Books,UrbanKart,776.83,482.67
+5629,Beauty_Product_5629,Beauty,Nova,1029.9,653.0
+5630,Fashion_Product_5630,Fashion,UrbanKart,2225.17,1433.34
+5631,Home & Kitchen_Product_5631,Home & Kitchen,BluePeak,4580.35,2873.68
+5632,Sports_Product_5632,Sports,Zentra,3057.5,2145.76
+5633,Sports_Product_5633,Sports,Omni,2406.86,1840.52
+5634,Toys_Product_5634,Toys,Zentra,1124.89,633.64
+5635,Grocery_Product_5635,Grocery,BluePeak,411.14,232.15
+5636,Fashion_Product_5636,Fashion,Omni,1227.47,957.26
+5637,Beauty_Product_5637,Beauty,Aster,979.48,712.57
+5638,Beauty_Product_5638,Beauty,Nova,420.89,267.55
+5639,Books_Product_5639,Books,DailyPro,652.23,436.55
+5640,Toys_Product_5640,Toys,DailyPro,1618.37,1179.34
+5641,Footwear_Product_5641,Footwear,Zentra,2370.98,1357.98
+5642,Beauty_Product_5642,Beauty,UrbanKart,1031.55,647.07
+5643,Fashion_Product_5643,Fashion,Aster,1089.85,785.44
+5644,Toys_Product_5644,Toys,Zentra,1756.92,1228.44
+5645,Sports_Product_5645,Sports,Omni,2257.39,1450.47
+5646,Sports_Product_5646,Sports,PrimeOne,3350.1,2150.21
+5647,Electronics_Product_5647,Electronics,PrimeOne,23266.53,17899.22
+5648,Sports_Product_5648,Sports,Zentra,1152.49,839.77
+5649,Electronics_Product_5649,Electronics,PrimeOne,19149.18,14828.28
+5650,Footwear_Product_5650,Footwear,Zentra,2691.97,1794.42
+5651,Books_Product_5651,Books,Zentra,503.58,346.85
+5652,Fashion_Product_5652,Fashion,Omni,1569.6,1113.66
+5653,Electronics_Product_5653,Electronics,Nova,11515.97,7392.6
+5654,Sports_Product_5654,Sports,DailyPro,1403.86,890.79
+5655,Toys_Product_5655,Toys,Aster,1356.5,751.32
+5656,Toys_Product_5656,Toys,Nova,1170.32,743.6
+5657,Toys_Product_5657,Toys,Zentra,2083.84,1254.93
+5658,Footwear_Product_5658,Footwear,UrbanKart,1638.16,1045.89
+5659,Sports_Product_5659,Sports,Aster,3143.58,1998.0
+5660,Home & Kitchen_Product_5660,Home & Kitchen,Aster,2650.61,1618.73
+5661,Books_Product_5661,Books,Aster,497.52,369.72
+5662,Footwear_Product_5662,Footwear,Aster,1198.6,924.19
+5663,Mobile Accessories_Product_5663,Mobile Accessories,PrimeOne,1291.6,870.41
+5664,Toys_Product_5664,Toys,UrbanKart,413.45,311.84
+5665,Footwear_Product_5665,Footwear,PrimeOne,2571.5,1896.78
+5666,Mobile Accessories_Product_5666,Mobile Accessories,Zentra,1033.53,789.42
+5667,Mobile Accessories_Product_5667,Mobile Accessories,Zentra,1016.16,775.5
+5668,Electronics_Product_5668,Electronics,BluePeak,28337.63,15937.44
+5669,Grocery_Product_5669,Grocery,Aster,620.59,374.09
+5670,Footwear_Product_5670,Footwear,Zentra,2691.59,1830.96
+5671,Fashion_Product_5671,Fashion,Zentra,1998.29,1420.1
+5672,Home & Kitchen_Product_5672,Home & Kitchen,DailyPro,4405.93,3297.03
+5673,Grocery_Product_5673,Grocery,Nova,758.4,427.56
+5674,Fashion_Product_5674,Fashion,Nova,966.78,548.77
+5675,Fashion_Product_5675,Fashion,BluePeak,2042.58,1209.31
+5676,Beauty_Product_5676,Beauty,BluePeak,1191.59,888.21
+5677,Electronics_Product_5677,Electronics,UrbanKart,20239.07,12571.01
+5678,Footwear_Product_5678,Footwear,Zentra,2132.71,1211.51
+5679,Mobile Accessories_Product_5679,Mobile Accessories,Nova,1326.09,973.08
+5680,Fashion_Product_5680,Fashion,BluePeak,2482.85,1475.38
+5681,Mobile Accessories_Product_5681,Mobile Accessories,UrbanKart,748.72,433.47
+5682,Toys_Product_5682,Toys,DailyPro,761.69,479.81
+5683,Footwear_Product_5683,Footwear,UrbanKart,1636.39,1172.21
+5684,Beauty_Product_5684,Beauty,Nova,859.34,506.26
+5685,Electronics_Product_5685,Electronics,Nova,18930.4,12563.75
+5686,Mobile Accessories_Product_5686,Mobile Accessories,PrimeOne,504.99,318.83
+5687,Mobile Accessories_Product_5687,Mobile Accessories,Omni,509.78,281.11
+5688,Toys_Product_5688,Toys,UrbanKart,1957.52,1228.49
+5689,Fashion_Product_5689,Fashion,BluePeak,1498.42,991.43
+5690,Fashion_Product_5690,Fashion,Aster,2633.51,1572.39
+5691,Grocery_Product_5691,Grocery,Omni,731.98,440.76
+5692,Sports_Product_5692,Sports,Zentra,2689.56,1543.97
+5693,Footwear_Product_5693,Footwear,Aster,3232.37,1991.87
+5694,Footwear_Product_5694,Footwear,BluePeak,2219.81,1540.66
+5695,Home & Kitchen_Product_5695,Home & Kitchen,BluePeak,3046.52,2184.28
+5696,Electronics_Product_5696,Electronics,Nova,29517.6,22601.63
+5697,Home & Kitchen_Product_5697,Home & Kitchen,UrbanKart,3097.86,2313.33
+5698,Fashion_Product_5698,Fashion,Nova,2166.03,1244.91
+5699,Footwear_Product_5699,Footwear,Zentra,2335.29,1685.85
+5700,Beauty_Product_5700,Beauty,BluePeak,768.25,517.72
+5701,Footwear_Product_5701,Footwear,Zentra,2160.72,1456.81
+5702,Mobile Accessories_Product_5702,Mobile Accessories,Zentra,1247.89,775.35
+5703,Sports_Product_5703,Sports,PrimeOne,446.58,293.72
+5704,Sports_Product_5704,Sports,Aster,3306.23,2363.82
+5705,Toys_Product_5705,Toys,Zentra,987.21,716.13
+5706,Toys_Product_5706,Toys,Zentra,1560.78,1020.08
+5707,Grocery_Product_5707,Grocery,UrbanKart,1146.24,816.35
+5708,Sports_Product_5708,Sports,Nova,1913.81,1364.84
+5709,Toys_Product_5709,Toys,Nova,1543.84,1172.98
+5710,Mobile Accessories_Product_5710,Mobile Accessories,PrimeOne,803.89,520.78
+5711,Beauty_Product_5711,Beauty,PrimeOne,1050.74,635.07
+5712,Mobile Accessories_Product_5712,Mobile Accessories,Nova,924.3,582.19
+5713,Books_Product_5713,Books,UrbanKart,510.58,330.29
+5714,Sports_Product_5714,Sports,Nova,676.18,402.47
+5715,Books_Product_5715,Books,DailyPro,576.95,332.83
+5716,Fashion_Product_5716,Fashion,Zentra,1708.52,1298.53
+5717,Grocery_Product_5717,Grocery,Omni,714.86,441.18
+5718,Electronics_Product_5718,Electronics,UrbanKart,25058.66,19185.3
+5719,Mobile Accessories_Product_5719,Mobile Accessories,Nova,907.7,646.63
+5720,Toys_Product_5720,Toys,Zentra,1090.75,675.96
+5721,Mobile Accessories_Product_5721,Mobile Accessories,Omni,302.66,188.13
+5722,Beauty_Product_5722,Beauty,Omni,625.24,385.64
+5723,Sports_Product_5723,Sports,DailyPro,3108.79,2028.06
+5724,Toys_Product_5724,Toys,PrimeOne,1318.75,741.77
+5725,Footwear_Product_5725,Footwear,BluePeak,2914.77,1676.78
+5726,Mobile Accessories_Product_5726,Mobile Accessories,PrimeOne,931.57,517.49
+5727,Mobile Accessories_Product_5727,Mobile Accessories,Aster,875.57,496.48
+5728,Toys_Product_5728,Toys,BluePeak,1054.75,683.58
+5729,Home & Kitchen_Product_5729,Home & Kitchen,DailyPro,3753.34,2108.05
+5730,Footwear_Product_5730,Footwear,BluePeak,2052.22,1323.11
+5731,Footwear_Product_5731,Footwear,Zentra,2273.42,1695.94
+5732,Toys_Product_5732,Toys,BluePeak,711.95,457.09
+5733,Sports_Product_5733,Sports,DailyPro,3747.21,2262.53
+5734,Fashion_Product_5734,Fashion,Omni,1615.56,1016.15
+5735,Fashion_Product_5735,Fashion,Nova,369.9,250.19
+5736,Fashion_Product_5736,Fashion,Zentra,1163.22,653.34
+5737,Electronics_Product_5737,Electronics,PrimeOne,16002.08,10473.89
+5738,Sports_Product_5738,Sports,Aster,3341.16,2277.51
+5739,Toys_Product_5739,Toys,Omni,1442.13,1064.49
+5740,Home & Kitchen_Product_5740,Home & Kitchen,PrimeOne,4216.14,2955.64
+5741,Beauty_Product_5741,Beauty,Zentra,108.15,68.9
+5742,Grocery_Product_5742,Grocery,Zentra,680.37,502.97
+5743,Toys_Product_5743,Toys,DailyPro,1465.46,841.09
+5744,Mobile Accessories_Product_5744,Mobile Accessories,PrimeOne,289.41,176.04
+5745,Electronics_Product_5745,Electronics,BluePeak,13024.48,8836.77
+5746,Home & Kitchen_Product_5746,Home & Kitchen,UrbanKart,5329.1,4043.63
+5747,Electronics_Product_5747,Electronics,DailyPro,18786.88,12183.06
+5748,Electronics_Product_5748,Electronics,UrbanKart,20733.43,15502.32
+5749,Footwear_Product_5749,Footwear,Zentra,1378.16,840.32
+5750,Grocery_Product_5750,Grocery,Zentra,944.82,609.22
+5751,Footwear_Product_5751,Footwear,UrbanKart,2355.67,1537.37
+5752,Beauty_Product_5752,Beauty,Omni,1248.22,853.86
+5753,Books_Product_5753,Books,UrbanKart,372.03,272.99
+5754,Footwear_Product_5754,Footwear,DailyPro,1685.91,1287.02
+5755,Electronics_Product_5755,Electronics,BluePeak,20515.69,13287.78
+5756,Home & Kitchen_Product_5756,Home & Kitchen,BluePeak,5106.11,3336.22
+5757,Toys_Product_5757,Toys,Aster,1406.58,807.7
+5758,Sports_Product_5758,Sports,PrimeOne,1929.81,1375.58
+5759,Mobile Accessories_Product_5759,Mobile Accessories,Nova,547.73,353.96
+5760,Sports_Product_5760,Sports,Zentra,2416.92,1694.8
+5761,Electronics_Product_5761,Electronics,PrimeOne,18935.09,13039.57
+5762,Toys_Product_5762,Toys,Zentra,1201.8,662.6
+5763,Grocery_Product_5763,Grocery,PrimeOne,436.33,244.0
+5764,Electronics_Product_5764,Electronics,DailyPro,11620.94,8712.07
+5765,Fashion_Product_5765,Fashion,Aster,1750.41,1028.6
+5766,Home & Kitchen_Product_5766,Home & Kitchen,Zentra,1945.2,1282.55
+5767,Books_Product_5767,Books,Omni,593.93,374.9
+5768,Footwear_Product_5768,Footwear,DailyPro,2518.24,1708.13
+5769,Footwear_Product_5769,Footwear,Omni,2989.22,1857.32
+5770,Mobile Accessories_Product_5770,Mobile Accessories,UrbanKart,1314.02,848.51
+5771,Footwear_Product_5771,Footwear,PrimeOne,1840.47,1084.48
+5772,Toys_Product_5772,Toys,BluePeak,593.17,394.07
+5773,Home & Kitchen_Product_5773,Home & Kitchen,Aster,2791.59,2092.74
+5774,Footwear_Product_5774,Footwear,UrbanKart,1961.19,1508.82
+5775,Mobile Accessories_Product_5775,Mobile Accessories,Nova,1079.13,644.53
+5776,Books_Product_5776,Books,DailyPro,414.25,242.09
+5777,Mobile Accessories_Product_5777,Mobile Accessories,Zentra,1059.32,626.54
+5778,Footwear_Product_5778,Footwear,UrbanKart,1791.1,1157.53
+5779,Footwear_Product_5779,Footwear,Omni,2417.05,1380.0
+5780,Footwear_Product_5780,Footwear,PrimeOne,1813.14,1338.96
+5781,Fashion_Product_5781,Fashion,UrbanKart,436.84,266.58
+5782,Footwear_Product_5782,Footwear,PrimeOne,1150.16,746.33
+5783,Toys_Product_5783,Toys,Zentra,641.1,386.31
+5784,Mobile Accessories_Product_5784,Mobile Accessories,Aster,657.75,390.37
+5785,Electronics_Product_5785,Electronics,DailyPro,27223.08,15133.01
+5786,Electronics_Product_5786,Electronics,PrimeOne,19109.08,12435.55
+5787,Grocery_Product_5787,Grocery,PrimeOne,483.59,362.91
+5788,Home & Kitchen_Product_5788,Home & Kitchen,Aster,3963.45,2394.21
+5789,Sports_Product_5789,Sports,UrbanKart,3927.63,2315.69
+5790,Toys_Product_5790,Toys,Nova,152.69,99.03
+5791,Grocery_Product_5791,Grocery,UrbanKart,616.7,467.46
+5792,Books_Product_5792,Books,Aster,274.66,173.44
+5793,Footwear_Product_5793,Footwear,Aster,3233.52,2070.64
+5794,Footwear_Product_5794,Footwear,BluePeak,2471.83,1864.62
+5795,Electronics_Product_5795,Electronics,UrbanKart,8699.01,5693.5
+5796,Home & Kitchen_Product_5796,Home & Kitchen,Aster,3486.19,2412.84
+5797,Beauty_Product_5797,Beauty,Aster,906.9,550.46
+5798,Grocery_Product_5798,Grocery,Zentra,854.36,567.87
+5799,Books_Product_5799,Books,UrbanKart,603.73,419.99
+5800,Fashion_Product_5800,Fashion,Zentra,1936.02,1245.55
+5801,Toys_Product_5801,Toys,DailyPro,1225.57,927.59
+5802,Mobile Accessories_Product_5802,Mobile Accessories,PrimeOne,1085.13,748.09
+5803,Beauty_Product_5803,Beauty,Omni,1220.96,925.99
+5804,Toys_Product_5804,Toys,Nova,921.49,552.17
+5805,Beauty_Product_5805,Beauty,Zentra,1082.29,600.98
+5806,Books_Product_5806,Books,BluePeak,345.61,214.0
+5807,Footwear_Product_5807,Footwear,PrimeOne,2980.98,2269.02
+5808,Grocery_Product_5808,Grocery,Omni,736.69,543.57
+5809,Books_Product_5809,Books,PrimeOne,412.9,283.84
+5810,Mobile Accessories_Product_5810,Mobile Accessories,BluePeak,886.86,622.1
+5811,Fashion_Product_5811,Fashion,Nova,1521.14,1154.54
+5812,Sports_Product_5812,Sports,UrbanKart,759.59,564.28
+5813,Fashion_Product_5813,Fashion,BluePeak,2659.23,1950.32
+5814,Beauty_Product_5814,Beauty,DailyPro,451.36,251.98
+5815,Home & Kitchen_Product_5815,Home & Kitchen,UrbanKart,1752.83,1176.42
+5816,Electronics_Product_5816,Electronics,Nova,20410.29,13400.66
+5817,Beauty_Product_5817,Beauty,BluePeak,868.54,674.22
+5818,Books_Product_5818,Books,Nova,447.16,297.45
+5819,Home & Kitchen_Product_5819,Home & Kitchen,BluePeak,3812.42,2243.88
+5820,Sports_Product_5820,Sports,UrbanKart,2366.97,1355.65
+5821,Electronics_Product_5821,Electronics,Zentra,11030.63,6361.1
+5822,Home & Kitchen_Product_5822,Home & Kitchen,UrbanKart,4395.0,3287.44
+5823,Electronics_Product_5823,Electronics,BluePeak,22406.7,14335.31
+5824,Mobile Accessories_Product_5824,Mobile Accessories,PrimeOne,835.32,567.33
+5825,Electronics_Product_5825,Electronics,Zentra,16208.91,12302.91
+5826,Books_Product_5826,Books,Aster,565.41,437.42
+5827,Books_Product_5827,Books,Nova,526.74,398.14
+5828,Footwear_Product_5828,Footwear,Aster,2665.08,1807.98
+5829,Sports_Product_5829,Sports,UrbanKart,1507.18,883.11
+5830,Home & Kitchen_Product_5830,Home & Kitchen,BluePeak,1481.23,892.56
+5831,Books_Product_5831,Books,Zentra,636.89,482.07
+5832,Grocery_Product_5832,Grocery,Omni,727.84,514.31
+5833,Electronics_Product_5833,Electronics,Zentra,17951.31,10396.05
+5834,Books_Product_5834,Books,Aster,571.6,377.9
+5835,Grocery_Product_5835,Grocery,UrbanKart,382.73,228.13
+5836,Electronics_Product_5836,Electronics,Omni,13616.44,7773.8
+5837,Electronics_Product_5837,Electronics,BluePeak,20508.58,14330.41
+5838,Books_Product_5838,Books,Nova,360.12,252.25
+5839,Beauty_Product_5839,Beauty,Aster,648.63,374.53
+5840,Mobile Accessories_Product_5840,Mobile Accessories,DailyPro,99.0,69.75
+5841,Books_Product_5841,Books,Omni,421.25,284.85
+5842,Sports_Product_5842,Sports,Zentra,2041.94,1392.31
+5843,Fashion_Product_5843,Fashion,Zentra,1975.38,1236.85
+5844,Footwear_Product_5844,Footwear,Omni,2175.04,1420.73
+5845,Footwear_Product_5845,Footwear,Zentra,1915.5,1086.64
+5846,Toys_Product_5846,Toys,UrbanKart,1090.21,829.82
+5847,Toys_Product_5847,Toys,Nova,888.11,495.35
+5848,Beauty_Product_5848,Beauty,PrimeOne,1098.78,726.0
+5849,Electronics_Product_5849,Electronics,UrbanKart,19461.56,13377.17
+5850,Mobile Accessories_Product_5850,Mobile Accessories,Zentra,481.15,286.34
+5851,Fashion_Product_5851,Fashion,Omni,1945.93,1513.44
+5852,Fashion_Product_5852,Fashion,Aster,2474.58,1388.81
+5853,Toys_Product_5853,Toys,Zentra,1105.14,622.57
+5854,Sports_Product_5854,Sports,Nova,3192.18,1930.83
+5855,Electronics_Product_5855,Electronics,DailyPro,24765.45,18074.24
+5856,Sports_Product_5856,Sports,UrbanKart,1247.97,929.7
+5857,Electronics_Product_5857,Electronics,DailyPro,21410.99,13150.7
+5858,Sports_Product_5858,Sports,UrbanKart,2046.1,1365.87
+5859,Fashion_Product_5859,Fashion,UrbanKart,1850.84,1182.07
+5860,Mobile Accessories_Product_5860,Mobile Accessories,Omni,603.4,445.37
+5861,Toys_Product_5861,Toys,Aster,1168.4,713.04
+5862,Footwear_Product_5862,Footwear,Nova,1522.96,1064.79
+5863,Sports_Product_5863,Sports,Omni,1899.49,1269.15
+5864,Beauty_Product_5864,Beauty,DailyPro,541.84,405.42
+5865,Mobile Accessories_Product_5865,Mobile Accessories,Zentra,912.42,566.51
+5866,Toys_Product_5866,Toys,Zentra,1660.41,1017.4
+5867,Beauty_Product_5867,Beauty,UrbanKart,551.56,341.85
+5868,Sports_Product_5868,Sports,Nova,4025.26,2582.09
+5869,Sports_Product_5869,Sports,Omni,1933.83,1248.79
+5870,Home & Kitchen_Product_5870,Home & Kitchen,Aster,3327.87,2049.59
+5871,Toys_Product_5871,Toys,DailyPro,878.72,594.02
+5872,Home & Kitchen_Product_5872,Home & Kitchen,Nova,4583.84,3532.86
+5873,Mobile Accessories_Product_5873,Mobile Accessories,Zentra,855.64,644.1
+5874,Books_Product_5874,Books,BluePeak,533.1,368.81
+5875,Home & Kitchen_Product_5875,Home & Kitchen,BluePeak,2547.45,1919.26
+5876,Grocery_Product_5876,Grocery,Nova,647.78,419.44
+5877,Fashion_Product_5877,Fashion,BluePeak,2192.51,1557.87
+5878,Home & Kitchen_Product_5878,Home & Kitchen,Nova,3228.15,2276.04
+5879,Home & Kitchen_Product_5879,Home & Kitchen,Aster,3824.11,2786.53
+5880,Toys_Product_5880,Toys,Omni,1159.49,653.27
+5881,Footwear_Product_5881,Footwear,Zentra,2829.74,1684.34
+5882,Books_Product_5882,Books,Omni,229.51,151.67
+5883,Books_Product_5883,Books,Aster,392.56,255.48
+5884,Footwear_Product_5884,Footwear,DailyPro,1590.97,922.59
+5885,Home & Kitchen_Product_5885,Home & Kitchen,Omni,3650.72,2069.62
+5886,Toys_Product_5886,Toys,Aster,418.54,271.43
+5887,Mobile Accessories_Product_5887,Mobile Accessories,Aster,380.64,221.35
+5888,Home & Kitchen_Product_5888,Home & Kitchen,Zentra,5771.11,4166.99
+5889,Beauty_Product_5889,Beauty,Omni,758.89,459.83
+5890,Footwear_Product_5890,Footwear,Omni,998.84,704.37
+5891,Electronics_Product_5891,Electronics,BluePeak,19555.82,14775.29
+5892,Beauty_Product_5892,Beauty,BluePeak,1446.58,908.13
+5893,Mobile Accessories_Product_5893,Mobile Accessories,PrimeOne,874.37,556.02
+5894,Sports_Product_5894,Sports,UrbanKart,2251.43,1698.96
+5895,Home & Kitchen_Product_5895,Home & Kitchen,Aster,3852.05,2810.65
+5896,Fashion_Product_5896,Fashion,BluePeak,2199.74,1645.19
+5897,Books_Product_5897,Books,BluePeak,439.3,292.98
+5898,Footwear_Product_5898,Footwear,Omni,2011.91,1277.46
+5899,Books_Product_5899,Books,DailyPro,560.93,396.07
+5900,Books_Product_5900,Books,Omni,526.2,319.4
+5901,Sports_Product_5901,Sports,PrimeOne,195.28,133.13
+5902,Fashion_Product_5902,Fashion,Zentra,2262.53,1589.68
+5903,Footwear_Product_5903,Footwear,Nova,2944.76,1947.1
+5904,Footwear_Product_5904,Footwear,Zentra,2192.49,1519.17
+5905,Home & Kitchen_Product_5905,Home & Kitchen,Omni,4568.4,3427.41
+5906,Beauty_Product_5906,Beauty,Omni,749.76,454.37
+5907,Electronics_Product_5907,Electronics,DailyPro,17111.47,9539.71
+5908,Electronics_Product_5908,Electronics,DailyPro,15640.27,11771.9
+5909,Grocery_Product_5909,Grocery,Aster,608.09,420.11
+5910,Toys_Product_5910,Toys,Aster,742.55,508.92
+5911,Footwear_Product_5911,Footwear,Aster,2846.21,1951.39
+5912,Home & Kitchen_Product_5912,Home & Kitchen,Aster,4612.27,3274.14
+5913,Sports_Product_5913,Sports,Nova,3885.41,2629.05
+5914,Books_Product_5914,Books,BluePeak,576.94,422.55
+5915,Toys_Product_5915,Toys,Aster,1145.17,741.21
+5916,Sports_Product_5916,Sports,PrimeOne,2600.17,1782.41
+5917,Beauty_Product_5917,Beauty,Aster,1082.1,764.16
+5918,Footwear_Product_5918,Footwear,Zentra,2183.29,1582.88
+5919,Sports_Product_5919,Sports,Nova,3518.44,2297.97
+5920,Electronics_Product_5920,Electronics,DailyPro,24528.37,14369.9
+5921,Books_Product_5921,Books,Aster,120.85,76.69
+5922,Beauty_Product_5922,Beauty,Zentra,859.42,577.89
+5923,Sports_Product_5923,Sports,Omni,2246.64,1721.86
+5924,Toys_Product_5924,Toys,PrimeOne,578.75,423.62
+5925,Toys_Product_5925,Toys,UrbanKart,1527.67,1168.63
+5926,Toys_Product_5926,Toys,PrimeOne,1233.75,928.18
+5927,Grocery_Product_5927,Grocery,BluePeak,527.17,338.04
+5928,Footwear_Product_5928,Footwear,BluePeak,1948.56,1241.76
+5929,Beauty_Product_5929,Beauty,BluePeak,1028.1,721.05
+5930,Beauty_Product_5930,Beauty,Omni,946.05,597.83
+5931,Beauty_Product_5931,Beauty,Aster,1376.21,970.86
+5932,Electronics_Product_5932,Electronics,PrimeOne,28987.64,18783.44
+5933,Home & Kitchen_Product_5933,Home & Kitchen,Omni,1762.42,1044.11
+5934,Books_Product_5934,Books,Nova,498.51,360.28
+5935,Fashion_Product_5935,Fashion,Zentra,1517.58,878.05
+5936,Mobile Accessories_Product_5936,Mobile Accessories,PrimeOne,874.02,511.67
+5937,Books_Product_5937,Books,UrbanKart,383.54,231.86
+5938,Fashion_Product_5938,Fashion,BluePeak,2824.76,1892.05
+5939,Mobile Accessories_Product_5939,Mobile Accessories,Aster,1192.34,831.92
+5940,Toys_Product_5940,Toys,PrimeOne,1437.37,833.31
+5941,Grocery_Product_5941,Grocery,Aster,489.66,307.5
+5942,Toys_Product_5942,Toys,Omni,844.04,587.21
+5943,Home & Kitchen_Product_5943,Home & Kitchen,Zentra,5001.32,3205.96
+5944,Sports_Product_5944,Sports,Zentra,1485.6,864.05
+5945,Footwear_Product_5945,Footwear,UrbanKart,2406.98,1624.55
+5946,Grocery_Product_5946,Grocery,DailyPro,576.19,403.16
+5947,Grocery_Product_5947,Grocery,BluePeak,411.02,230.38
+5948,Fashion_Product_5948,Fashion,DailyPro,1786.07,1188.26
+5949,Fashion_Product_5949,Fashion,Aster,1519.22,990.14
+5950,Fashion_Product_5950,Fashion,Aster,1728.56,954.08
+5951,Fashion_Product_5951,Fashion,Zentra,1013.07,662.38
+5952,Toys_Product_5952,Toys,PrimeOne,506.16,344.04
+5953,Home & Kitchen_Product_5953,Home & Kitchen,DailyPro,4858.01,2930.41
+5954,Toys_Product_5954,Toys,DailyPro,1239.84,691.24
+5955,Sports_Product_5955,Sports,DailyPro,2137.76,1236.31
+5956,Fashion_Product_5956,Fashion,UrbanKart,2284.2,1763.94
+5957,Grocery_Product_5957,Grocery,Aster,598.26,384.6
+5958,Toys_Product_5958,Toys,Omni,658.37,398.38
+5959,Electronics_Product_5959,Electronics,Zentra,7431.78,5014.21
+5960,Home & Kitchen_Product_5960,Home & Kitchen,PrimeOne,3144.89,2309.4
+5961,Grocery_Product_5961,Grocery,Aster,655.53,426.59
+5962,Beauty_Product_5962,Beauty,DailyPro,837.91,627.0
+5963,Grocery_Product_5963,Grocery,PrimeOne,254.56,192.99
+5964,Fashion_Product_5964,Fashion,Aster,1282.78,892.73
+5965,Books_Product_5965,Books,Nova,429.38,291.13
+5966,Toys_Product_5966,Toys,BluePeak,1917.01,1062.55
+5967,Home & Kitchen_Product_5967,Home & Kitchen,BluePeak,4861.49,3337.29
+5968,Beauty_Product_5968,Beauty,DailyPro,1011.67,678.07
+5969,Electronics_Product_5969,Electronics,UrbanKart,19849.81,11833.48
+5970,Grocery_Product_5970,Grocery,DailyPro,652.69,386.17
+5971,Fashion_Product_5971,Fashion,DailyPro,2608.97,2010.02
+5972,Home & Kitchen_Product_5972,Home & Kitchen,PrimeOne,1489.15,1092.48
+5973,Mobile Accessories_Product_5973,Mobile Accessories,BluePeak,989.7,594.37
+5974,Toys_Product_5974,Toys,Nova,1102.27,779.21
+5975,Mobile Accessories_Product_5975,Mobile Accessories,Omni,967.33,643.06
+5976,Fashion_Product_5976,Fashion,Aster,1910.95,1422.73
+5977,Home & Kitchen_Product_5977,Home & Kitchen,PrimeOne,3286.99,1947.12
+5978,Electronics_Product_5978,Electronics,Omni,18001.91,10295.0
+5979,Grocery_Product_5979,Grocery,BluePeak,598.59,415.48
+5980,Books_Product_5980,Books,Omni,379.63,211.93
+5981,Grocery_Product_5981,Grocery,Nova,571.41,431.2
+5982,Sports_Product_5982,Sports,Omni,1226.31,940.79
+5983,Sports_Product_5983,Sports,Zentra,1975.15,1300.76
+5984,Fashion_Product_5984,Fashion,Aster,1627.95,1115.16
+5985,Home & Kitchen_Product_5985,Home & Kitchen,Aster,3194.01,2199.18
+5986,Electronics_Product_5986,Electronics,Aster,19691.2,12442.38
+5987,Books_Product_5987,Books,Omni,349.9,200.64
+5988,Books_Product_5988,Books,DailyPro,404.09,256.55
+5989,Electronics_Product_5989,Electronics,DailyPro,21339.21,13916.88
+5990,Books_Product_5990,Books,Omni,726.99,566.69
+5991,Sports_Product_5991,Sports,BluePeak,3376.8,2456.43
+5992,Electronics_Product_5992,Electronics,Zentra,17031.4,13199.38
+5993,Fashion_Product_5993,Fashion,Omni,1528.2,1059.87
+5994,Toys_Product_5994,Toys,Nova,1022.86,655.73
+5995,Mobile Accessories_Product_5995,Mobile Accessories,PrimeOne,661.62,428.0
+5996,Home & Kitchen_Product_5996,Home & Kitchen,Zentra,4242.88,2995.45
+5997,Footwear_Product_5997,Footwear,Omni,1720.19,1259.77
+5998,Grocery_Product_5998,Grocery,Omni,729.43,489.65
+5999,Electronics_Product_5999,Electronics,Nova,18262.01,10072.65
+6000,Fashion_Product_6000,Fashion,Omni,2133.42,1333.32
+6001,Books_Product_6001,Books,DailyPro,321.11,230.07
+6002,Home & Kitchen_Product_6002,Home & Kitchen,Zentra,3092.38,1766.75
+6003,Mobile Accessories_Product_6003,Mobile Accessories,BluePeak,555.14,319.51
+6004,Home & Kitchen_Product_6004,Home & Kitchen,UrbanKart,6097.79,4658.02
+6005,Fashion_Product_6005,Fashion,Nova,1620.08,894.64
+6006,Grocery_Product_6006,Grocery,Omni,355.81,260.72
+6007,Grocery_Product_6007,Grocery,BluePeak,411.46,258.74
+6008,Toys_Product_6008,Toys,Omni,940.53,697.85
+6009,Mobile Accessories_Product_6009,Mobile Accessories,DailyPro,927.89,577.23
+6010,Grocery_Product_6010,Grocery,Aster,601.91,419.88
+6011,Toys_Product_6011,Toys,PrimeOne,1602.44,1142.57
+6012,Fashion_Product_6012,Fashion,DailyPro,2172.36,1238.9
+6013,Home & Kitchen_Product_6013,Home & Kitchen,Nova,5015.22,3705.81
+6014,Home & Kitchen_Product_6014,Home & Kitchen,Zentra,2442.51,1892.04
+6015,Footwear_Product_6015,Footwear,Aster,1371.22,774.31
+6016,Electronics_Product_6016,Electronics,Nova,21056.67,12835.19
+6017,Home & Kitchen_Product_6017,Home & Kitchen,DailyPro,5396.25,3490.62
+6018,Fashion_Product_6018,Fashion,UrbanKart,2241.58,1246.97
+6019,Books_Product_6019,Books,Nova,500.2,338.55
+6020,Sports_Product_6020,Sports,PrimeOne,2457.82,1515.2
+6021,Fashion_Product_6021,Fashion,Nova,642.98,457.7
+6022,Fashion_Product_6022,Fashion,BluePeak,2051.25,1415.15
+6023,Mobile Accessories_Product_6023,Mobile Accessories,Aster,397.82,276.28
+6024,Sports_Product_6024,Sports,Aster,4516.81,3227.53
+6025,Home & Kitchen_Product_6025,Home & Kitchen,Aster,4899.29,3492.29
+6026,Grocery_Product_6026,Grocery,Omni,987.87,591.98
+6027,Grocery_Product_6027,Grocery,DailyPro,478.48,272.43
+6028,Footwear_Product_6028,Footwear,UrbanKart,1428.39,861.91
+6029,Sports_Product_6029,Sports,BluePeak,3438.67,2588.54
+6030,Toys_Product_6030,Toys,Nova,1490.33,829.0
+6031,Beauty_Product_6031,Beauty,UrbanKart,1132.07,854.43
+6032,Grocery_Product_6032,Grocery,Omni,837.71,505.53
+6033,Sports_Product_6033,Sports,Nova,3391.43,2405.25
+6034,Electronics_Product_6034,Electronics,Aster,20236.78,11855.3
+6035,Sports_Product_6035,Sports,DailyPro,2661.7,1569.14
+6036,Grocery_Product_6036,Grocery,UrbanKart,447.58,340.15
+6037,Electronics_Product_6037,Electronics,Zentra,13927.93,10343.21
+6038,Grocery_Product_6038,Grocery,DailyPro,729.76,417.49
+6039,Fashion_Product_6039,Fashion,Omni,1793.64,1386.7
+6040,Grocery_Product_6040,Grocery,UrbanKart,720.46,445.16
+6041,Mobile Accessories_Product_6041,Mobile Accessories,Omni,1297.78,751.91
+6042,Grocery_Product_6042,Grocery,Zentra,760.85,443.53
+6043,Beauty_Product_6043,Beauty,Omni,837.58,635.2
+6044,Books_Product_6044,Books,Nova,336.73,200.03
+6045,Toys_Product_6045,Toys,Omni,1054.03,628.79
+6046,Mobile Accessories_Product_6046,Mobile Accessories,BluePeak,529.81,333.39
+6047,Mobile Accessories_Product_6047,Mobile Accessories,Omni,655.82,440.15
+6048,Beauty_Product_6048,Beauty,Zentra,350.72,262.3
+6049,Toys_Product_6049,Toys,Zentra,758.29,452.0
+6050,Books_Product_6050,Books,Zentra,541.95,391.03
+6051,Toys_Product_6051,Toys,Aster,677.14,478.7
+6052,Mobile Accessories_Product_6052,Mobile Accessories,BluePeak,562.14,365.09
+6053,Grocery_Product_6053,Grocery,BluePeak,811.12,590.37
+6054,Beauty_Product_6054,Beauty,BluePeak,1081.78,688.03
+6055,Home & Kitchen_Product_6055,Home & Kitchen,BluePeak,2885.23,2082.88
+6056,Toys_Product_6056,Toys,BluePeak,2202.39,1248.79
+6057,Mobile Accessories_Product_6057,Mobile Accessories,DailyPro,901.82,596.57
+6058,Books_Product_6058,Books,PrimeOne,363.93,259.9
+6059,Books_Product_6059,Books,BluePeak,846.25,533.25
+6060,Mobile Accessories_Product_6060,Mobile Accessories,Zentra,1038.59,693.26
+6061,Footwear_Product_6061,Footwear,Nova,4406.15,3339.43
+6062,Mobile Accessories_Product_6062,Mobile Accessories,DailyPro,1211.15,706.42
+6063,Beauty_Product_6063,Beauty,UrbanKart,1153.83,819.59
+6064,Grocery_Product_6064,Grocery,Omni,457.4,253.53
+6065,Sports_Product_6065,Sports,Aster,4099.76,2834.74
+6066,Grocery_Product_6066,Grocery,Aster,185.41,139.44
+6067,Grocery_Product_6067,Grocery,Nova,165.87,113.29
+6068,Home & Kitchen_Product_6068,Home & Kitchen,UrbanKart,6492.3,4284.9
+6069,Footwear_Product_6069,Footwear,BluePeak,1346.66,801.28
+6070,Electronics_Product_6070,Electronics,BluePeak,10829.02,6625.34
+6071,Beauty_Product_6071,Beauty,Omni,515.02,397.45
+6072,Sports_Product_6072,Sports,Aster,1902.44,1143.67
+6073,Electronics_Product_6073,Electronics,Aster,23610.85,13900.27
+6074,Toys_Product_6074,Toys,BluePeak,1259.63,830.01
+6075,Sports_Product_6075,Sports,Omni,2612.89,1625.38
+6076,Electronics_Product_6076,Electronics,Omni,15656.42,10426.43
+6077,Fashion_Product_6077,Fashion,UrbanKart,2364.4,1570.8
+6078,Beauty_Product_6078,Beauty,BluePeak,775.12,583.16
+6079,Sports_Product_6079,Sports,Zentra,4351.99,3270.24
+6080,Books_Product_6080,Books,UrbanKart,377.29,223.93
+6081,Books_Product_6081,Books,UrbanKart,880.0,544.99
+6082,Beauty_Product_6082,Beauty,BluePeak,1014.86,630.51
+6083,Grocery_Product_6083,Grocery,Zentra,1003.52,714.89
+6084,Fashion_Product_6084,Fashion,PrimeOne,2848.08,2112.64
+6085,Electronics_Product_6085,Electronics,BluePeak,15856.49,11326.15
+6086,Beauty_Product_6086,Beauty,BluePeak,942.78,567.7
+6087,Electronics_Product_6087,Electronics,BluePeak,15057.27,9990.94
+6088,Toys_Product_6088,Toys,Nova,1102.8,744.35
+6089,Sports_Product_6089,Sports,Aster,3636.98,2442.63
+6090,Home & Kitchen_Product_6090,Home & Kitchen,DailyPro,1891.34,1390.76
+6091,Mobile Accessories_Product_6091,Mobile Accessories,Aster,834.74,515.5
+6092,Books_Product_6092,Books,Omni,296.08,164.46
+6093,Sports_Product_6093,Sports,PrimeOne,2739.82,2093.2
+6094,Fashion_Product_6094,Fashion,Nova,1890.78,1123.68
+6095,Sports_Product_6095,Sports,DailyPro,2668.49,1523.83
+6096,Sports_Product_6096,Sports,Zentra,1871.28,1185.5
+6097,Fashion_Product_6097,Fashion,BluePeak,2253.27,1587.06
+6098,Electronics_Product_6098,Electronics,DailyPro,22529.84,16718.38
+6099,Electronics_Product_6099,Electronics,DailyPro,25157.39,17845.79
+6100,Mobile Accessories_Product_6100,Mobile Accessories,Aster,756.51,544.77
+6101,Electronics_Product_6101,Electronics,Omni,25954.09,18314.14
+6102,Mobile Accessories_Product_6102,Mobile Accessories,Nova,675.12,474.27
+6103,Beauty_Product_6103,Beauty,PrimeOne,508.35,378.94
+6104,Grocery_Product_6104,Grocery,PrimeOne,681.59,404.44
+6105,Books_Product_6105,Books,UrbanKart,506.95,286.68
+6106,Home & Kitchen_Product_6106,Home & Kitchen,Omni,2647.87,1835.25
+6107,Electronics_Product_6107,Electronics,DailyPro,19387.79,13857.6
+6108,Sports_Product_6108,Sports,Zentra,1409.72,782.99
+6109,Footwear_Product_6109,Footwear,Zentra,2324.28,1638.68
+6110,Grocery_Product_6110,Grocery,Omni,759.55,484.8
+6111,Beauty_Product_6111,Beauty,BluePeak,844.99,596.99
+6112,Toys_Product_6112,Toys,Omni,819.27,559.05
+6113,Footwear_Product_6113,Footwear,UrbanKart,2125.11,1340.94
+6114,Grocery_Product_6114,Grocery,BluePeak,808.36,619.13
+6115,Toys_Product_6115,Toys,PrimeOne,1147.75,662.6
+6116,Toys_Product_6116,Toys,Aster,1480.33,891.99
+6117,Home & Kitchen_Product_6117,Home & Kitchen,Zentra,4508.6,2686.62
+6118,Toys_Product_6118,Toys,Zentra,820.22,471.29
+6119,Mobile Accessories_Product_6119,Mobile Accessories,DailyPro,625.59,377.75
+6120,Footwear_Product_6120,Footwear,UrbanKart,3242.98,2265.79
+6121,Footwear_Product_6121,Footwear,BluePeak,2748.91,1676.57
+6122,Fashion_Product_6122,Fashion,UrbanKart,1628.79,1046.72
+6123,Home & Kitchen_Product_6123,Home & Kitchen,Zentra,4589.33,3430.39
+6124,Home & Kitchen_Product_6124,Home & Kitchen,Omni,5231.73,3733.86
+6125,Grocery_Product_6125,Grocery,Aster,377.16,293.51
+6126,Sports_Product_6126,Sports,Omni,2120.38,1219.76
+6127,Footwear_Product_6127,Footwear,UrbanKart,1775.31,1065.88
+6128,Toys_Product_6128,Toys,UrbanKart,1142.73,821.08
+6129,Footwear_Product_6129,Footwear,UrbanKart,3159.01,1937.04
+6130,Electronics_Product_6130,Electronics,DailyPro,26533.42,15957.23
+6131,Footwear_Product_6131,Footwear,Zentra,2853.98,1999.14
+6132,Footwear_Product_6132,Footwear,DailyPro,3391.6,2021.28
+6133,Electronics_Product_6133,Electronics,Aster,6323.63,3549.98
+6134,Footwear_Product_6134,Footwear,BluePeak,1533.93,918.83
+6135,Electronics_Product_6135,Electronics,Zentra,17610.23,10119.28
+6136,Home & Kitchen_Product_6136,Home & Kitchen,PrimeOne,4616.66,2698.89
+6137,Home & Kitchen_Product_6137,Home & Kitchen,UrbanKart,3333.46,2341.94
+6138,Footwear_Product_6138,Footwear,Omni,2428.52,1399.24
+6139,Mobile Accessories_Product_6139,Mobile Accessories,BluePeak,557.35,361.43
+6140,Books_Product_6140,Books,Nova,578.03,431.87
+6141,Sports_Product_6141,Sports,DailyPro,2651.27,1506.65
+6142,Home & Kitchen_Product_6142,Home & Kitchen,DailyPro,1101.58,713.13
+6143,Toys_Product_6143,Toys,DailyPro,492.77,383.77
+6144,Fashion_Product_6144,Fashion,Aster,2044.65,1514.35
+6145,Books_Product_6145,Books,UrbanKart,339.18,195.88
+6146,Grocery_Product_6146,Grocery,Omni,730.85,404.8
+6147,Mobile Accessories_Product_6147,Mobile Accessories,BluePeak,1355.13,839.94
+6148,Sports_Product_6148,Sports,Omni,3593.41,2707.93
+6149,Toys_Product_6149,Toys,UrbanKart,1538.99,865.86
+6150,Toys_Product_6150,Toys,Nova,2206.89,1340.71
+6151,Sports_Product_6151,Sports,BluePeak,3041.02,2283.88
+6152,Fashion_Product_6152,Fashion,Zentra,1694.97,1126.48
+6153,Mobile Accessories_Product_6153,Mobile Accessories,Zentra,673.35,388.6
+6154,Mobile Accessories_Product_6154,Mobile Accessories,DailyPro,918.45,608.81
+6155,Sports_Product_6155,Sports,Zentra,1916.97,1151.47
+6156,Grocery_Product_6156,Grocery,Zentra,901.88,513.98
+6157,Beauty_Product_6157,Beauty,Nova,1084.09,789.3
+6158,Books_Product_6158,Books,Nova,758.41,518.6
+6159,Electronics_Product_6159,Electronics,Aster,24056.21,18704.0
+6160,Mobile Accessories_Product_6160,Mobile Accessories,Nova,776.35,495.1
+6161,Mobile Accessories_Product_6161,Mobile Accessories,Nova,1002.02,665.64
+6162,Home & Kitchen_Product_6162,Home & Kitchen,Nova,3491.86,2038.32
+6163,Toys_Product_6163,Toys,PrimeOne,714.45,529.25
+6164,Sports_Product_6164,Sports,DailyPro,2731.25,1631.97
+6165,Fashion_Product_6165,Fashion,DailyPro,2415.4,1470.91
+6166,Toys_Product_6166,Toys,BluePeak,1581.64,1197.67
+6167,Electronics_Product_6167,Electronics,PrimeOne,27646.43,19776.16
+6168,Grocery_Product_6168,Grocery,Aster,411.95,264.45
+6169,Home & Kitchen_Product_6169,Home & Kitchen,Zentra,3991.07,2255.95
+6170,Books_Product_6170,Books,BluePeak,176.52,115.22
+6171,Fashion_Product_6171,Fashion,Nova,2016.97,1471.18
+6172,Mobile Accessories_Product_6172,Mobile Accessories,BluePeak,932.99,720.64
+6173,Electronics_Product_6173,Electronics,Aster,9790.76,5407.44
+6174,Books_Product_6174,Books,Nova,211.67,125.61
+6175,Sports_Product_6175,Sports,Omni,2895.87,1930.56
+6176,Fashion_Product_6176,Fashion,PrimeOne,1285.98,826.82
+6177,Mobile Accessories_Product_6177,Mobile Accessories,Nova,659.78,505.31
+6178,Sports_Product_6178,Sports,Omni,2253.24,1487.68
+6179,Beauty_Product_6179,Beauty,Omni,711.87,536.07
+6180,Beauty_Product_6180,Beauty,Zentra,995.2,719.29
+6181,Books_Product_6181,Books,UrbanKart,639.66,397.35
+6182,Toys_Product_6182,Toys,PrimeOne,642.58,393.12
+6183,Home & Kitchen_Product_6183,Home & Kitchen,Aster,3375.45,2047.36
+6184,Sports_Product_6184,Sports,DailyPro,4853.95,3586.75
+6185,Mobile Accessories_Product_6185,Mobile Accessories,BluePeak,1004.97,560.78
+6186,Sports_Product_6186,Sports,PrimeOne,3207.57,1871.68
+6187,Fashion_Product_6187,Fashion,Omni,1520.84,922.8
+6188,Footwear_Product_6188,Footwear,Nova,2569.79,1713.88
+6189,Fashion_Product_6189,Fashion,Nova,2586.99,1673.2
+6190,Books_Product_6190,Books,PrimeOne,613.82,382.64
+6191,Fashion_Product_6191,Fashion,Aster,2031.7,1572.71
+6192,Grocery_Product_6192,Grocery,Zentra,528.97,352.94
+6193,Home & Kitchen_Product_6193,Home & Kitchen,BluePeak,2985.34,1845.52
+6194,Grocery_Product_6194,Grocery,DailyPro,497.41,373.41
+6195,Sports_Product_6195,Sports,BluePeak,991.81,741.58
+6196,Home & Kitchen_Product_6196,Home & Kitchen,Zentra,4565.83,2685.58
+6197,Grocery_Product_6197,Grocery,Omni,932.0,720.69
+6198,Toys_Product_6198,Toys,Omni,913.69,642.83
+6199,Footwear_Product_6199,Footwear,PrimeOne,1807.68,1261.34
+6200,Books_Product_6200,Books,UrbanKart,404.05,278.83

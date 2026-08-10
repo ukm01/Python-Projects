@@ -1,0 +1,9 @@
+# Frontend dependencies
+/frontend/node_modules/
+
+# Backend virtual environments
+/salesdesk/venv/
+/salesdesk/.venv/
+
+# Local secrets
+/salesdesk/.env

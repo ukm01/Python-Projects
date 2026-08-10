@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter-generated files
+.ipynb_checkpoints/
